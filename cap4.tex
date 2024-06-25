@@ -1,0 +1,326 @@
+
+ \newcolumntype{J}{>{\raggedright\arraybackslash}p{10cm}}
+ 
+ 
+\newpage 
+
+
+\section{Identificación del conjunto y/o subconjunto por área tecnológica} %3.9
+\textit{¿Cómo se relacionan entre sí los elementos componentes?}\\
+De la sección anterior (3.8) se tiene la siguiente lista de componentes principales del sistema de refrigeración a diseñar, los cuales son señalados en la figura \ref{fig:listacomponentes} y descritos en la tabla \ref{tabla:lista-componentes}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.6\linewidth]{figures/lista_componentes}
+	\caption{Elementos componentes principales del sistema de refrigeración a diseñar.}Fuente: Elaboración propia basado de \citeNP{bibliocad}
+	\label{fig:listacomponentes}
+\end{figure}
+
+\begin{table}[H]
+	\centering
+	\caption{Identificación de elementos principales de forma general del sistema.}
+	\begin{tabular}{@{}cl@{}}
+		\toprule
+		\textbf{Número}           & \textbf{Nombre del elemento o componente}           \\
+		 \midrule
+		1                         & Paneles superiores (techo)                          \\
+		2                         & Paneles laterales (paredes)                         \\
+		3                         & Puertas/ventanas                                    \\
+		4                         & evaporador                                          \\
+		5                         & condensador                                         \\
+		6                         & compresor                                           \\
+		7                         & Válvula de expansión                                \\
+		8                         & Recubrimiento lateral                               \\
+		9                         & Recubrimiento superior                              \\ \bottomrule
+	\end{tabular}
+	\label{tabla:lista-componentes}
+\end{table}
+
+Como se ha descrito en capítulos previos, las cámaras de refrigeración son fundamentales en la cadena de frío, especialmente para productos sensibles como la insulina, que requiere condiciones específicas de almacenamiento para mantener su eficacia y seguridad. Conocer los elementos de una cámara de refrigeración por área tecnológica es crucial para asegurar que estos medicamentos se conserven adecuadamente. A continuación, se detallan las áreas tecnológicas y la importancia de cada una en el contexto del almacenamiento de insulina.
+\newpage
+
+La \cite{UG2022}, describe a través de su blog (un documento en extenso) los componentes de un sistema de refrigeración tradicional los cuales han sido adaptados para el sistema del presente proyecto, se detallan en las tablas de \ref{tabla:mecanicos} a \ref{tabla:ergonomia}.
+
+
+
+\begin{table}[H]
+	\centering
+	\caption{Conjunto 1: Listado de componentes mecánicos/térmicos del sistema de refrigeración}
+	Fuente: Elaboración propia basado de la \citeNP{UG2022}.
+		\begin{tabular}{@{}cl@{}}
+	\toprule
+	%\textbf{Número} & 
+	\begin{minipage}[t]{0.25\linewidth}\textbf{Nombre del elemento o componente}\end{minipage} & \begin{minipage}[t]{0.7\linewidth}\textbf{Descripción del conjunto o integración de subsistema}\end{minipage} \\
+		
+		 \midrule
+	%	1               &
+		 Compresor                                 & \begin{minipage}[t]{0.7\linewidth}El compresor es el corazón del sistema de refrigeración, esencial para mantener el refrigerante en movimiento.\end{minipage} \\
+	%	2               &
+		 Evaporador                                & \begin{minipage}[t]{0.7\linewidth}Absorbe el calor del interior de la cámara, enfriando el aire para mantener una temperatura adecuada.\end{minipage} \\
+	%	3               & 
+		Condensador                               & \begin{minipage}[t]{0.7\linewidth}Disipa el calor del refrigerante al exterior, ayudando a mantener una temperatura constante en la cámara.\end{minipage} \\
+	%	4               & 
+		Ventiladores                              & \begin{minipage}[t]{0.7\linewidth}Aseguran la circulación de aire uniforme dentro de la cámara de refrigeración, evitando zonas de diferentes temperaturas.\end{minipage} \\
+		%5               &
+		 Puertas y sellos                          & \begin{minipage}[t]{0.7\linewidth}Mantienen la integridad de la cámara, evitando la entrada de aire caliente y humedad.\end{minipage} \\
+		 
+		 Recubrimiento térmico              
+		 	 
+		 	 
+		 	      & \begin{minipage}[t]{0.7\linewidth}
+		  	Contiene la temperatura  	dentro de la cámara 		  	frigorífica evitando perdidas 		  	de calor (paredes laterales y superiores).
+		  	\end{minipage} \\
+		 
+		  
+		  \bottomrule
+	\end{tabular}
+	\label{tabla:mecanicos}
+	
+	\end{table}
+	
+	
+	\begin{table}[H]
+		\centering
+		\caption{Conjunto 2: Listado de componentes eléctricos y electrónicos del sistema de refrigeración}
+		Fuente: Elaboración propia basado de \citeNP{UG2022}.
+		\begin{tabular}{@{}cl@{}}
+			\toprule
+		%	\textbf{Número} &
+			 \begin{minipage}[t]{0.25\linewidth}\textbf{Nombre del elemento o componente}\end{minipage} & \begin{minipage}[t]{0.50\linewidth}\textbf{Descripción del conjunto o integración de subsistema}\end{minipage} \\
+			
+			 \midrule
+		%	1               & 
+			Termostato                                & \begin{minipage}[t]{0.5\linewidth}Controla y monitoriza la temperatura interna de la cámara, asegurando condiciones óptimas.\end{minipage} \\
+			%2               &
+			 Sensores de temperatura                   & \begin{minipage}[t]{0.5\linewidth}Proporcionan lecturas precisas de la temperatura, fundamentales para el control del sistema.\end{minipage} \\
+		%	3               & 
+			Fuente de alimentación ininterrumpida & \begin{minipage}[t]{0.5\linewidth}Garantiza el funcionamiento continuo durante cortes de energía, evitando fluctuaciones de temperatura.\end{minipage} \\
+			%4               &
+			 Generador de respaldo                     & \begin{minipage}[t]{0.5\linewidth}Proporciona energía durante apagones prolongados, asegurando el correcto funcionamiento del sistema.\end{minipage} \\ \bottomrule
+		\end{tabular}
+		\label{tabla:electricos}
+	\end{table}
+	
+	\begin{table}[H]
+		\centering
+		\caption{Conjunto 3: Listado de componentes de automatización del sistema de refrigeración}
+		Fuente: Elaboración propia basado de \citeNP{UG2022}.
+		\begin{tabular}{@{}cl@{}}
+	\toprule
+	%\textbf{Número} & 
+	\begin{minipage}[t]{0.25\linewidth}\textbf{Nombre del elemento o componente}\end{minipage} & \begin{minipage}[t]{0.60\linewidth}\textbf{Descripción del conjunto o integración de subsistema}\end{minipage} \\
+			
+			 \midrule
+		%	1               & 
+			Controlador electrónico                   & \begin{minipage}[t]{0.6\linewidth}Regula el funcionamiento del sistema de refrigeración basado en lecturas de los sensores.\end{minipage} \\
+		%	2               & 
+			Sistema de monitoreo remoto               & \begin{minipage}[t]{0.6\linewidth}Permite la supervisión del sistema de refrigeración a distancia, facilitando la gestión y el mantenimiento.\end{minipage} \\
+		%	3               & 
+			Grabador de datos históricos              & \begin{minipage}[t]{0.6\linewidth}Registra las condiciones de temperatura a lo largo del tiempo, ayudando a mantener un registro detallado.\end{minipage} \\
+			%4               &
+			 Sistemas de alarma                        & \begin{minipage}[t]{0.6\linewidth}Alertan sobre cualquier desviación de la temperatura, permitiendo acciones correctivas rápidas.\end{minipage} \\ \bottomrule
+		\end{tabular}
+		\label{tabla:automatizacion}
+	\end{table}
+	
+	
+ 
+	
+	\begin{table}[H]
+		\centering
+		\caption{Conjunto 4: Listado de componentes ergonómicos del sistema de refrigeración}
+		Fuente: Elaboración propia basado de \citeNP{UG2022}.
+			\begin{tabular}{@{}cl@{}}
+		\toprule
+	%	\textbf{Número} &
+	 \begin{minipage}[t]{0.25\linewidth}\textbf{Nombre del elemento o componente}\end{minipage} & \begin{minipage}[t]{0.60\linewidth}\textbf{Descripción del conjunto o integración de subsistema}\end{minipage} \\ \midrule
+		%	1               &
+			Puertas de fácil acceso                   & \begin{minipage}[t]{0.6\linewidth}Diseñadas para un acceso sencillo y seguro a la cámara.\end{minipage} \\
+			%2               &
+			 Panel de control intuitivo                & \begin{minipage}[t]{0.6\linewidth}Facilita la operación del sistema, con interfaces fáciles de entender y manejar.\end{minipage} \\
+		%	3               &
+			 Iluminación interior adecuada             & \begin{minipage}[t]{0.6\linewidth}Proporciona una visibilidad clara dentro de la cámara, mejorando la seguridad y la eficiencia operativa.\end{minipage} \\
+			%4               & 
+			Racks ajustables                          & \begin{minipage}[t]{0.6\linewidth}Permiten la organización flexible del espacio de almacenamiento, optimizando el uso del espacio disponible.\end{minipage} \\ \bottomrule
+		\end{tabular}
+	\label{tabla:ergonomia}
+	\end{table}
+	
+	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\newpage
+\section{Descripción de la interacción del elemento componente del sistema.}
+
+Teniendo en cuenta que para la interacción entre elementos componentes debe existir algún tipo de movimiento, ya sea por transmisión o de transformación, los cuales en un equipo de refrigeración son poco comunes, entonces, para este apartado no se describirá una lista de componentes con este enfoque.
+
+
+
+\section{Proceso del meta diseño de un sistema artefactual tecnológico}
+
+\textit{Para que el producto tecnológico cumpla adecuadamente su función, ¿qué partes son esenciales y cuáles no?}\\
+
+
+Para que una cámara de refrigeración cumpla adecuadamente su función de almacenar y conservar la insulina, es vital realizar un meta diseño detallado. Este análisis permite identificar los componentes esenciales que aseguran el correcto funcionamiento del sistema de refrigeración y cuáles podrían ser prescindibles o de menor prioridad. Los componentes esenciales incluyen aquellos que directamente afectan la capacidad de mantener la temperatura adecuada, la seguridad y la estabilidad operativa del sistema.
+
+\textbf{Importancia del metadiseño}
+\begin{itemize}
+	\item Optimización del funcionamiento: Al entender la función de cada componente, se pueden optimizar sus características y ubicaciones para mejorar el rendimiento del sistema.
+\item Eficiencia energética: Identificar componentes clave ayuda a mejorar la eficiencia energética del sistema, reduciendo costos operativos.
+\item Fiabilidad y durabilidad: Asegurar que los componentes esenciales sean de alta calidad aumenta la fiabilidad y durabilidad del sistema.
+\item Costos de mantenimiento: Identificar partes no esenciales permite reducir costos de mantenimiento y reparación, enfocándose en componentes críticos.
+\item Seguridad y cumplimiento: Un estudio detallado asegura que el sistema cumpla con las normas de seguridad y regulaciones pertinentes.
+
+\end{itemize}
+
+
+\textbf{Partes esenciales y no esenciales:}
+\begin{itemize}
+	\item Partes esenciales: Son aquellas cuyo fallo impactaría directamente en el funcionamiento de la cámara de refrigeración, como el compresor, el evaporador y los ventiladores.
+	
+\item Partes no esenciales: Son componentes que, aunque necesarios, su fallo no detendría el sistema completo, como ciertos tornillos, pernos o elementos de soporte.
+\end{itemize}
+
+\newpage
+
+\begin{landscape}
+En la tabla \ref{tabla:esenciales} se retoma la información y características principales de los elementos del sistema
+artefactual para su correcta función.
+
+
+\begin{table}[H]
+	\centering
+	\caption{Identificación de las partes esenciales de los componentes del sistema}
+	\begin{tabular}{@{}ccccccccc@{}}
+		\toprule
+		\textbf{Número} & \textbf{Componente}                                                              & \textbf{Duradero} & \textbf{Cambiable o} & \textbf{Flexible}    & \textbf{Comercial} & \textbf{Comercial}     & \multicolumn{2}{c}{\textbf{Selección}} \\  
+		\textbf{}       & \textbf{}                                                                        & \textbf{}         & \textbf{modular}     & \textbf{o compuesto} & \textbf{nacional}  & \textbf{internacional} & \textbf{Sí}        & \textbf{No}       \\
+	   \midrule
+		1               & \begin{tabular}[c]{@{}c@{}}Paneles \\ superiores\\ (techo)\end{tabular}          & 15 años           & cambiable            & flexible             & x                  &                        & x                  &                   \\
+		2               & \begin{tabular}[c]{@{}c@{}}Paneles\\ laterales\\ (paredes)\end{tabular}          & 15 años           & cambiable            & flexible             & x                  &                        & x                  &                   \\
+		3               & \begin{tabular}[c]{@{}c@{}}Puertas y \\ ventanas\end{tabular}                    & 15 años           & cambiable            & flexible             & x                  &                        & x                  &                   \\
+		4               & Evaporador                                                                       & 10-12 años        & modular              & Compuesto            & x                  & x                      & x                  &                   \\
+		5               & Condensador                                                                      & 10-12 años        & modular              & compuesto            & x                  & x                      & x                  &                   \\
+		6               & Compresor                                                                        & 10-12 años        & modular              & compuesto            & x                  & x                      & x                  &                   \\
+		7               & \begin{tabular}[c]{@{}c@{}}Válvula\\ de expansión\end{tabular}                   & 10-12 años        & modular              & compuesto            & x                  & x                      & x                  &                   \\
+		8               & \begin{tabular}[c]{@{}c@{}}Recubrimientos\\ (lateral y \\ superior)\end{tabular} & 15 años           & cambiable            & flexible             & x                  &                        & x                  &                   \\ \bottomrule
+	\end{tabular}
+	\label{tabla:esenciales}
+\end{table}
+\end{landscape}
+\newpage
+\section{Alternativas tecnológicas de los componentes}
+Evaluar alternativas tecnológicas para los componentes del sistema de refrigeración, planteando los requerimientos técnicos y mostrando las restricciones operativas y de seguridad esenciales para cada componente. A continuación se describen algunas de las características de este apartado que posteriorme se desglosa en la tabla \ref{tabla:alternativas}
+\begin{itemize}
+	\item Las restricciones operativas se refieren a las limitaciones y condiciones bajo las cuales los componentes y el sistema en su totalidad deben operar de manera efectiva. Estas restricciones aseguran que el sistema funcione dentro de los parámetros óptimos, manteniendo su rendimiento y evitando fallos.
+	
+	\begin{itemize}
+		\item {Condiciones Ambientales:} Los componentes deben ser capaces de operar en las condiciones ambientales esperadas, como temperatura y humedad. En el caso de una cámara de refrigeración, esto incluye temperaturas extremadamente bajas y ambientes húmedos.
+		\item {Carga y Capacidad:} Los componentes deben soportar la carga y capacidad de trabajo esperadas sin sufrir daños o degradación. Esto es especialmente importante para partes mecánicas como tornillos, pernos y racks ajustables.
+		\item {Durabilidad y Ciclo de Vida:} Los componentes deben tener una durabilidad adecuada y un ciclo de vida que cumpla con los requisitos del sistema, minimizando el mantenimiento y reemplazo frecuente.
+		\item {Compatibilidad:} Los componentes deben ser compatibles entre sí y con el sistema en general, asegurando una integración efectiva y sin problemas.
+	\end{itemize}
+	
+	
+	
+	\item Las restricciones de seguridad son las limitaciones y requisitos destinados a proteger a los usuarios y a la integridad del sistema. Estas restricciones buscan prevenir accidentes, fallos catastróficos y daños a las personas y al medio ambiente.
+	
+	
+	\begin{itemize}
+		\item {Protección contra Fallos:} Los componentes deben estar diseñados para prevenir y resistir fallos, como sobrecalentamientos, cortocircuitos y fugas. Esto es crucial para partes como compresores y fuentes de alimentación.
+		\item {Materiales Seguros:} Los materiales utilizados en los componentes deben ser seguros para el entorno en el que se utilizan, no liberando sustancias tóxicas o peligrosas. Esto incluye materiales no reactivos y seguros para alimentos.
+		\item {Diseño a Prueba de Manipulaciones:} Los componentes deben estar diseñados para prevenir manipulaciones no autorizadas o accidentales, asegurando que solo el personal capacitado pueda acceder a ellos.
+		\item  {Normativas y Regulaciones:} Los componentes deben cumplir con las normativas y regulaciones de seguridad aplicables, como normas eléctricas, mecánicas y sanitarias. Esto asegura que el sistema cumpla con los estándares legales y de calidad.
+	\end{itemize}
+	
+	
+\end{itemize}
+
+%
+%\begin{landscape}
+\begin{table}[H]
+	\centering
+	\caption{Alternativas tecnológicas de los componentes}
+	\begin{tabular}{ccc}
+		\hline
+		\textbf{Componente}                                                              & \textbf{Restricción}                                                                                                                                              & \textbf{Restricción}                                                                                                                          \\
+		\textbf{}                                                                        & \textbf{operacional}                                                                                                                                              & \textbf{de seguridad}                                                                                                                         \\ \hline
+		\begin{tabular}[c]{@{}c@{}}Paneles \\ superiores\\ (techo)\\[0.5cm]\end{tabular}      & \begin{tabular}[c]{@{}c@{}}Resistencia a la intemperie,\\ capacidad de carga\end{tabular}                                                                         & -                                                                                                                                             \\
+		\begin{tabular}[c]{@{}c@{}}Paneles\\ laterales\\ (paredes)\\[0.5cm]\end{tabular}          & \begin{tabular}[c]{@{}c@{}}Resistencia estructural, \\ aislamiento térmico\end{tabular}                                                                           & -                                                                                                                                             \\
+		\begin{tabular}[c]{@{}c@{}}Puertas y \\ ventanas\end{tabular}                    & \begin{tabular}[c]{@{}c@{}}Estanqueidad, aislamiento \\ térmico, resistencia \\ a la intemperie\\[0.5cm]\end{tabular}                                                      & \begin{tabular}[c]{@{}c@{}}Seguridad contra\\ intrusiones, bloqueo\\ seguro\end{tabular}                                                      \\
+		Evaporador                                                                       & \begin{tabular}[c]{@{}c@{}}Temperatura de evaporación,\\ capacidad de intercambio\\  de calor, flujo de aire\\[0.5cm]\end{tabular}                                         & \begin{tabular}[c]{@{}c@{}}Seguridad contra\\ fugas, protección\\ contra congelamiento\end{tabular}                                           \\
+		Condensador                                                                      & \begin{tabular}[c]{@{}c@{}}Temperatura de condensación,\\ capacidad de intercambio\\ de calor, flujo de aire\\[0.5cm]\end{tabular}                                         & \begin{tabular}[c]{@{}c@{}}Seguridad eléctrica,\\ protección contra\\ sobrecalentamiento\end{tabular}                                         \\
+		Compresor                                                                        & \begin{tabular}[c]{@{}c@{}}Rango de operación de presión,\\ temperatura ambiente, aceite de\\ lubricación, eficiencia\\[0.5cm]\end{tabular}                                & \begin{tabular}[c]{@{}c@{}}Seguridad eléctrica,\\ protección contra\\ sobrecalentamiento,\\ dispositivos de paro de\\ emergencia\end{tabular} \\
+		\begin{tabular}[c]{@{}c@{}}Válvula\\ de expansión\end{tabular}                   & \begin{tabular}[c]{@{}c@{}}Control de flujo de refrigerante,\\ compatibilidad con refrigerante,\\ ajuste de supercalentamiento\\ y/o subenfriamiento\\[0.5cm]\end{tabular} & -                                                                                                                                             \\
+		\begin{tabular}[c]{@{}c@{}}Recubrimientos\\ (lateral y \\ superior)\end{tabular} & \begin{tabular}[c]{@{}c@{}}Resistencia a la corrosión,\\ durabilidad, compatibilidad\\ con la estructura\end{tabular}                                             & \begin{tabular}[c]{@{}c@{}}Seguridad contra\\ corrosión, materiales\\ no tóxicos\end{tabular}                                                 \\ \hline
+	\end{tabular}
+	\label{tabla:alternativas}
+\end{table}
+%\end{landscape}
+
+
+
+
+
+
+\newpage
+\section{Selección de los componentes del sistema artefactual tecnológico}
+
+\newpage
+\section{Informática para el control del proceso}
+
+\newpage
+\section{Diseño preliminar final y funcionamiento del sistema artefactual.}
+
+
+
+\newpage
+\section{Conclusión}
+En este capítulo se han atacado los planteamientos básicos del el diseño y la implementación de una cámara de refrigeración para conservar insulina en la Ciudad de México los cuales sin duda, son procesos complejos que demandan una atención meticulosa a diversos aspectos. Además de los aspectos técnicos y logísticos, es fundamental adoptar un enfoque integral que considere las necesidades y preocupaciones de los pacientes diabéticos, así como el impacto potencial en la salud pública.\\ 
+Además de garantizar la calidad y la eficacia de la insulina almacenada es importante prestar atención a la disponibilidad y accesibilidad de la insulina para los pacientes diabéticos. Esto incluye aspectos como la distribución eficiente de los medicamentos, la gestión de inventarios y la coordinación con las unidades de atención médica para garantizar un suministro continuo y adecuado. \\
+Por otro lado conocer los planos y bosquejos preliminares es crucial para garantizar el almacenamiento seguro y eficiente de medicamentos sensibles, como la insulina. Permiten la identificación de áreas críticas, como la distribución de unidades de refrigeración, el aislamiento térmico adecuado y los sistemas de monitoreo y control de temperatura.
+
