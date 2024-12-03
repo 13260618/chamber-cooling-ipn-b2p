@@ -1,0 +1,44 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{\'{I}ndice general}{1}{chapter*.1}%
+\contentsline {chapter}{CAPÍTULO I. Generalidades del diseño térmico y cámaras de refrigeración de insulina}{1}{chapter*.1}%
+\contentsline {section}{{Introducción}}{12}{section*.2}%
+\contentsline {chapter}{CAPÍTULO III. Meta diseño}{12}{section*.2}%
+\contentsline {section}{{Introducción}}{16}{section*.3}%
+\contentsline {section}{\numberline {3.1}Identificación y estructuración de la necesidad detectada}{19}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Necesidad básica}{19}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Metodología de identificación de la necesidad}{19}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Necesidades tecnológicas específicas}{19}{subsection.3.1.3}%
+\contentsline {section}{\numberline {3.2}Interrogantes del diseño artefactual}{20}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Marco teórico }{28}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Carga del producto }{29}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Cargas térmicas de climatización}{30}{subsection.3.3.2}%
+\contentsline {subsubsection}{Cargas sensibles}{31}{subsection.3.3.2}%
+\contentsline {subsubsection}{Cargas latentes}{35}{equation.3.3.7}%
+\contentsline {section}{\numberline {3.4}Ecodiseño}{36}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Restricciones técnicas internas y externas}{38}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Factor de Seguridad}{38}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Dimensionamiento y Aislamiento de la Cámara de Refrigeración}{38}{subsection.3.5.2}%
+\contentsline {subsubsection}{Cargas por conducción en paredes y techo}{40}{Item.26}%
+\contentsline {subsubsection}{Cargas por infiltración de aire }{41}{figure.caption.16}%
+\contentsline {subsubsection}{Cargas del producto a refrigerar}{44}{table.caption.17}%
+\contentsline {subsection}{\numberline {3.5.3}Sistema de refrigeración}{45}{subsection.3.5.3}%
+\contentsline {subsubsection}{Selección del evaporador}{45}{subsection.3.5.3}%
+\contentsline {subsubsection}{Selección de motor}{46}{figure.caption.19}%
+\contentsline {subsubsection}{Bases teóricas de la refrigeración.}{48}{table.caption.20}%
+\contentsline {subsubsection}{Energía.}{48}{table.caption.20}%
+\contentsline {subsubsection}{Primera ley de la termodinámica}{49}{equation.3.5.32}%
+\contentsline {subsubsection}{Segunda ley de la termodinámica}{51}{figure.caption.22}%
+\contentsline {subsubsection}{Formalismo de Refrigeración}{53}{equation.3.5.44}%
+\contentsline {subsection}{\numberline {3.5.4}Distribución del Aire}{54}{subsection.3.5.4}%
+\contentsline {subsection}{\numberline {3.5.5}Dimensionamiento de puerta}{55}{subsection.3.5.5}%
+\contentsline {section}{\numberline {3.6}Lineamientos de regulación del sistema artefactual (Normativas y regulaciones)}{56}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}Normas oficiales Mexicanas}{56}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}Recomendaciones para Cámaras Frigoríficas}{57}{subsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.6.3}Consideraciones Específicas para Cámaras Frigoríficas}{57}{subsection.3.6.3}%
+\contentsline {subsection}{\numberline {3.6.4}Normativa y requisitos para cámaras frigoríficas comerciales}{58}{subsection.3.6.4}%
+\contentsline {section}{\numberline {3.7}Conceptualización De Sistema Artefactual (bosquejo general)}{58}{section.3.7}%
+\contentsline {subsection}{\numberline {3.7.1}Bosquejo general del sistema: cámara frigorífica}{60}{subsection.3.7.1}%
+\contentsline {subsection}{\numberline {3.7.2}Diagrama a bloques del proceso de trabajo}{61}{subsection.3.7.2}%
+\contentsline {subsubsection}{Diagrama de flujo}{62}{subsection.3.7.2}%
+\contentsline {subsection}{\numberline {3.7.3}Diagrama de funcionamiento general de sistema}{65}{subsection.3.7.3}%
+\contentsline {section}{\numberline {3.8}Listado de partes de los componentes del sistema}{66}{section.3.8}%

@@ -1,0 +1,158 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+bibliocad%
+}{%
+bibliocad%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+bibliocad}
+\APACinsertmetastar {%
+bibliocad}%
+\begin{APACrefauthors}%
+bibliocad.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACrefbtitle {{ Evaporador en 3d. en AutoCAD | Bibliocad}.} {{ Evaporador en
+  3d. en AutoCAD | Bibliocad}.}
+\newblock
+\APAChowpublished
+  {https://www.bibliocad.com/es/biblioteca/evaporador-de-una-planta-pesquera{\_}26654/}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bohn~de México%
+}{%
+Bohn~de México%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+bohn}
+\APACinsertmetastar {%
+bohn}%
+\begin{APACrefauthors}%
+Bohn~de México, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+\APACrefbtitle {{BOHN - Líder en la fabricación de Equipos de Refrigeración
+  Comercial e Industrial}.} {{BOHN - Líder en la fabricación de Equipos de
+  Refrigeración Comercial e Industrial}.}
+\newblock
+\APAChowpublished {https://www.bohn.com.mx/}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+De~Leon%
+}{%
+De~Leon%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+de-leon-no-date}
+\APACinsertmetastar {%
+de-leon-no-date}%
+\begin{APACrefauthors}%
+De~Leon, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+\APACrefbtitle {{Construcción y diseño de una cámara frigorífica}.}
+  {{Construcción y diseño de una cámara frigorífica}.}
+\newblock
+\begin{APACrefURL}
+  \url{https://www.edificacionescien.com/es/blog-cien-3/33-construccion-y-diseno-de-una-camara-frigorifica.html}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Edibon%
+}{%
+Edibon%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+edibon-no-date}
+\APACinsertmetastar {%
+edibon-no-date}%
+\begin{APACrefauthors}%
+Edibon.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+\APACrefbtitle {{Equipo de Refrigeración con Cámara de Refrigeración y
+  Congelación, Controlado desde Computador (PC) | EDIBON ®}.} {{Equipo de
+  Refrigeración con Cámara de Refrigeración y Congelación, Controlado desde
+  Computador (PC) | EDIBON ®}.}
+\newblock
+\begin{APACrefURL}
+  \url{https://www.edibon.com/es/equipo-de-refrigeracion-con-camara-de-refrigeracion-y-congelacion-controlado-desde-computador-pc}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Salvatore%
+}{%
+Salvatore%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+salvatore-2015}
+\APACinsertmetastar {%
+salvatore-2015}%
+\begin{APACrefauthors}%
+Salvatore, R\BPBI G\BPBI W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{5}{}.
+\newblock
+\APACrefbtitle {{Diseño y construcción de una cámara frigorífica modular de
+  9.6m3 para conservación de vacunas.}} {{Diseño y construcción de una
+  cámara frigorífica modular de 9.6m3 para conservación de vacunas.}}
+\newblock
+\begin{APACrefURL} \url{https://dspace.ups.edu.ec/handle/123456789/9248}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Universidad de Guanajuato}%
+}{%
+{Universidad de Guanajuato}%
+}{%
+{\protect \APACyear {2022}}%
+}]{%
+UG2022}
+\APACinsertmetastar {%
+UG2022}%
+\begin{APACrefauthors}%
+{Universidad de Guanajuato}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{{\APACmonth{07}}}{}.
+\newblock
+\APACrefbtitle {Clase digital 4. Componentes de un sistema de
+  refrigeraci{\'o}n.} {Clase digital 4. componentes de un sistema de
+  refrigeraci{\'o}n.}
+\newblock
+\APAChowpublished
+  {\url{https://blogs.ugto.mx/rea/clase-digital-4-componentes-de-un-sistema-de-refrigeracion/}}.
+\newblock
+\APACaddressPublisher{}{Sistema Universitario de Multimodalidad Educativo
+  (SUME) - Universidad de Guanajuato}.
+\newblock
+\APACrefnote{Accessed: 2024-6-07}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: IsraelMonjaraz-cap3-proyectoI.aux
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+The style file: apacite.bst
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: referencias.bib
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
+You've used 6 entries,
+            6951 wiz_defined-function locations,
+            1300 strings with 11959 characters,
+and the built_in function-call counts, 10265 in all, are:
+= -- 1248
+> -- 60
+< -- 548
++ -- 515
+- -- 18
+* -- 636
+:= -- 2101
+add.period$ -- 28
+call.type$ -- 6
+change.case$ -- 93
+chr.to.int$ -- 0
+cite$ -- 12
+duplicate$ -- 184
+empty$ -- 410
+format.name$ -- 84
+if$ -- 1904
+int.to.chr$ -- 0
+int.to.str$ -- 18
+missing$ -- 0
+newline$ -- 139
+num.names$ -- 48
+pop$ -- 415
+preamble$ -- 1
+purify$ -- 27
+quote$ -- 0
+skip$ -- 454
+stack$ -- 0
+substring$ -- 546
+swap$ -- 88
+text.length$ -- 18
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 480
+warning$ -- 0
+while$ -- 33
+width$ -- 0
+write$ -- 150

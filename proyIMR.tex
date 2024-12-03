@@ -1,0 +1,29 @@
+\documentclass[a4paper,12pt]{report}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+
+\input{librerias}
+
+\newcommand{\rsp}{\vspace{-0.5cm}}
+
+\begin{document}
+
+\author{TeXstudio Team}
+\title{Simple Book Example}
+\date{January 2013}
+
+\includepdf[pages=-]{portada}
+%\frontmatter
+\maketitle
+\tableofcontents
+
+%\mainmatter
+%\setcounter{page}{12}
+ 
+
+\input{cap1y2}
+\input{cap3}
+%\backmatter
+% bibliography, glossary and index would go here.
+
+\end{document}

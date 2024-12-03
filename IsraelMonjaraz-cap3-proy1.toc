@@ -1,0 +1,49 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{CAPÍTULO I. Antecedentes del proyecto}{1}{chapter*.3}%
+\contentsline {chapter}{CAPÍTULO II. Contexto del proyecto}{1}{chapter*.3}%
+\contentsline {chapter}{CAPÍTULO III. Meta diseño}{1}{chapter*.3}%
+\contentsline {section}{{Introducción}}{1}{section*.4}%
+\contentsline {section}{\numberline {3.1}Identificación y estructuración de la necesidad detectada}{2}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Necesidad básica}{2}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Metodología de identificación de la necesidad}{2}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Necesidades tecnológicas específicas}{3}{subsection.3.1.3}%
+\contentsline {section}{\numberline {3.2}Interrogantes del diseño artefactual}{3}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Marco teórico }{8}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Carga del producto }{9}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Cargas térmicas de climatización}{10}{subsection.3.3.2}%
+\contentsline {subsubsection}{Cargas sensibles}{10}{section*.11}%
+\contentsline {subsubsection}{Cargas latentes}{13}{equation.3.7}%
+\contentsline {section}{\numberline {3.4}Ecodiseño}{14}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Restricciones técnicas internas y externas}{15}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Factor de Seguridad}{15}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Dimensionamiento y Aislamiento de la Cámara de Refrigeración}{16}{subsection.3.5.2}%
+\contentsline {subsubsection}{Cargas por conducción en paredes y techo}{17}{Item.26}%
+\contentsline {subsubsection}{Cargas por infiltración de aire }{18}{figure.caption.18}%
+\contentsline {subsubsection}{Cargas del producto a refrigerar}{20}{table.caption.19}%
+\contentsline {subsection}{\numberline {3.5.3}Sistema de refrigeración}{20}{subsection.3.5.3}%
+\contentsline {subsubsection}{Selección del evaporador}{20}{section*.20}%
+\contentsline {subsubsection}{Selección de motor}{22}{figure.caption.22}%
+\contentsline {subsubsection}{Bases teóricas de la refrigeración.}{23}{table.caption.23}%
+\contentsline {subsubsection}{Energía.}{23}{table.caption.23}%
+\contentsline {subsubsection}{Primera ley de la termodinámica}{23}{equation.3.32}%
+\contentsline {subsubsection}{Segunda ley de la termodinámica}{25}{figure.caption.25}%
+\contentsline {subsubsection}{Formalismo de Refrigeración}{26}{equation.3.44}%
+\contentsline {subsection}{\numberline {3.5.4}Distribución del Aire}{27}{subsection.3.5.4}%
+\contentsline {subsection}{\numberline {3.5.5}Dimensionamiento de puerta}{28}{subsection.3.5.5}%
+\contentsline {section}{\numberline {3.6}Lineamientos de regulación del sistema artefactual (Normativas y regulaciones)}{28}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}Normas oficiales Mexicanas}{29}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}Recomendaciones para Cámaras Frigoríficas}{29}{subsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.6.3}Consideraciones Específicas para Cámaras Frigoríficas}{29}{subsection.3.6.3}%
+\contentsline {subsection}{\numberline {3.6.4}Normativa y requisitos para cámaras frigoríficas comerciales}{30}{subsection.3.6.4}%
+\contentsline {section}{\numberline {3.7}Conceptualización De Sistema Artefactual (bosquejo general)}{30}{section.3.7}%
+\contentsline {subsection}{\numberline {3.7.1}Bosquejo general del sistema: cámara frigorífica}{31}{subsection.3.7.1}%
+\contentsline {subsection}{\numberline {3.7.2}Diagrama a bloques del proceso de trabajo}{32}{subsection.3.7.2}%
+\contentsline {subsubsection}{Diagrama de flujo}{33}{section*.29}%
+\contentsline {subsection}{\numberline {3.7.3}Diagrama de funcionamiento general de sistema}{35}{subsection.3.7.3}%
+\contentsline {section}{\numberline {3.8}Listado de partes de los componentes del sistema}{36}{section.3.8}%
+\contentsline {section}{\numberline {3.9}Conclusión}{37}{section.3.9}%
+\contentsline {chapter}{Glosario}{38}{chapter*.36}%
+\contentsline {chapter}{Referencias}{40}{chapter*.37}%
+\contentsline {chapter}{{Anexos}}{43}{chapter*.38}%
+\contentsline {section}{{Tablas}}{43}{section*.39}%
+\contentsline {section}{{Imágenes}}{45}{table.caption.41}%

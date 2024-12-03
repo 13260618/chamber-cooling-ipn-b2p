@@ -1,0 +1,14 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {0.1}Identificación del conjunto y/o subconjunto por área tecnológica}{5}{section.0.1}%
+\contentsline {section}{\numberline {0.2}Descripción de la interacción del elemento componente del sistema.}{8}{section.0.2}%
+\contentsline {section}{\numberline {0.3}Proceso del meta diseño de un sistema artefactual tecnológico}{8}{section.0.3}%
+\contentsline {section}{\numberline {0.4}Alternativas tecnológicas de los componentes}{10}{section.0.4}%
+\contentsline {section}{\numberline {0.5}Selección de los componentes del sistema artefactual tecnológico}{11}{section.0.5}%
+\contentsline {section}{\numberline {0.6}Informática para el control del proceso}{14}{section.0.6}%
+\contentsline {section}{\numberline {0.7}Diseño preliminar final y funcionamiento del sistema artefactual.}{15}{section.0.7}%
+\contentsline {section}{\numberline {0.8}Conclusión}{16}{section.0.8}%
+\contentsline {chapter}{Glosario}{17}{chapter*.13}%
+\contentsline {chapter}{Referencias}{19}{chapter*.14}%
+\contentsline {chapter}{{Anexos}}{20}{chapter*.15}%
+\contentsline {section}{{Tablas}}{20}{section*.16}%
+\contentsline {section}{{Imágenes}}{22}{table.caption.18}%
