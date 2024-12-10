@@ -1,6 +1,6 @@
 
 \usepackage[utf8]{inputenc}
-\usepackage[spanish,es-noquoting]{babel} %es-noquo... y \decimal paa poner . en equations
+\usepackage[spanish,es-noquoting]{babel} %es-noquo... para poner . en equations
 \decimalpoint
 
 \usepackage{amssymb}
@@ -33,9 +33,9 @@
 
 
 
-%  usando arial en el trabajo
-\usepackage[T1]{fontenc}
-\usepackage{helvet}
+%  usando arial en el trabajo, lo quito para el paper
+%\usepackage[T1]{fontenc}
+%\usepackage{helvet}
 
 \renewcommand*\familydefault{\sfdefault}
 \usepackage{setspace} % interlineados
@@ -51,6 +51,9 @@
 \usepackage{booktabs}
 \usepackage{ragged2e} 
 \usepackage{pdfpages}
+
+%\usepackage{hyperref}
+
 \usepackage[hidelinks]{hyperref} % hidelinks para quitar los bordes de los enlaces
 
 
@@ -114,6 +117,9 @@
 %\usepackage[table,xcdraw]{xcolor}
 
 
+\usepackage{tocloft}% personalizar indices
 
+% Configurar un índice de ecuaciones con un nombre personalizado (por ejemplo, "eqn")
+\newlistof{eqn}{section}{Índice de Ecuaciones}  % Cambiar 'equation' a 'eqn'
 
 

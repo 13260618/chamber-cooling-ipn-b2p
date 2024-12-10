@@ -1,0 +1,16 @@
+\beamer@sectionintoc {1}{Contenido de la presentación}{2}{0}{1}
+\beamer@sectionintoc {2}{Planteamiento}{3}{0}{2}
+\beamer@sectionintoc {3}{Objetivos}{7}{0}{3}
+\beamer@subsectionintoc {3}{1}{Objetivo general}{7}{0}{3}
+\beamer@subsectionintoc {3}{2}{Objetivos específicos}{7}{0}{3}
+\beamer@sectionintoc {4}{Justificación}{8}{0}{4}
+\beamer@sectionintoc {5}{Antecedentes históricos}{9}{0}{5}
+\beamer@sectionintoc {6}{Marco teórico}{10}{0}{6}
+\beamer@sectionintoc {7}{Diseño del sistema solución}{11}{0}{7}
+\beamer@subsectionintoc {7}{1}{Criterios de diseño}{12}{0}{7}
+\beamer@subsectionintoc {7}{2}{Cálculos}{13}{0}{7}
+\beamer@sectionintoc {8}{Costos del proyecto}{14}{0}{8}
+\beamer@sectionintoc {9}{Conclusiones}{15}{0}{9}
+\beamer@sectionintoc {10}{Recomendaciones}{16}{0}{10}
+\beamer@sectionintoc {11}{Referencias}{17}{0}{11}
+\beamer@sectionintoc {12}{Fin}{18}{0}{12}

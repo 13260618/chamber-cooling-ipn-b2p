@@ -5,7 +5,18 @@
 
 \tableofcontents
 \listoftables
-\listoffigures
+\listoffigures 
+ 
+\section*{Índice de Ecuaciones}
+ 
+ \addcontentsline{toc}{chapter}{Índice de Ecuaciones}  % Agregar la sección al índice general
+ 
+ % Listar todas las ecuaciones en este índice, incluyendo el número de página con \pageref
+ \begin{enumerate}
+ 	\item Ecuación \ref{eq:Calor-de-enfriamiento}: Calor de enfriamiento \dotfill \pageref{eq:Calor-de-enfriamiento}
+ 	\item Ecuación \ref{eq:energia_especifica}: Energía específica de un cuerpo \dotfill \pageref{eq:energia_especifica}
+ 	\item Ecuación \ref{eq:carga_iluminacion_descarga}: Carga térmica por iluminación \dotfill \pageref{eq:carga_iluminacion_descarga}
+ \end{enumerate}
 
 
 \newpage

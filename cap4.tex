@@ -362,7 +362,7 @@ Tomando como referencia las tablas de datos mostrados en las tablas, \ref{tabla:
  	 T_{BS} &= 25^\circ C [77^\circ F] \\
  	T_{BH} &= 20^\circ C [68^\circ F] \\
  	H_R &= 90\%\\
- 	T_{alamacenamiento}& = T_{alm} = 3^\circ C [37.4\degree F]
+ 	T_{almacenamiento}& = T_{alm} = 3^\circ C [37.4\degree F]
  	 \end{aligned} 		 
  \end{equation}
  
@@ -671,14 +671,14 @@ Además del volumen, se deben tener en cuenta otros factores importantes, como l
  	
  	\subsubsection{Carga del Motor eléctrico}
  	
- 	Este cálculo se basa en la preselección del equipo adecuado. Al hablar de un dispositivo diseñado para refrigerar insulina, es fundamental considerar el uso del Thermo King y sus componentes. El evaporador, que se instala dentro de la cámara refrigerada, se toma en cuenta dentro de los cálculos de carga térmica.\\
+ 	Este cálculo se basa en la preselección del equipo adecuado. Al hablar de un dispositivo diseñado para refrigerar insulina, es fundamental considerar el uso del evaporador y sus componentes. El evaporador, que se instala dentro de la cámara refrigerada, se toma en cuenta dentro de los cálculos de carga térmica.\\
  	Para realizar el cálculo de la carga térmica es necesario disponer de los datos del motor y la cantidad de equipo dentro de la cámara. Para determinar el calor emitido por estos dispositivos, es necesario consultar la tabla \ref{tabla:4-motores-calor}, que contiene la información requerida para su aplicación en el área refrigerada.
  	
  	
  	
  	\begin{table}[H]
  		\centering
- 		\caption{alor disipado por los motores eléctricos}
+ 		\caption{Calor disipado por los motores eléctricos}
  		Fuente: Extraído del manual de Fundamentos ASHRAE 1981
  		 \label{tabla:4-motores-calor}
  		\begin{tabular}{cccc}
@@ -733,9 +733,10 @@ Además del volumen, se deben tener en cuenta otros factores importantes, como l
  
  \subsection{Unidad condensadora}
  
- En esta sección, es fundamental contar con una amplia variedad de catálogos de unidades condensadoras tipo Thermo King para realizar una selección eficiente del equipo adecuado. La selección de la unidad condensadora Thermo King incluye los componentes esenciales del proceso de refrigeración, como la unidad evaporadora, la unidad de expansión, el condensador o intercambiador de calor, y el compresor. Con estos elementos incluidos en el sistema Thermo King, solo queda seleccionar con base en los parámetros de temperatura de almacenamiento y la carga térmica con la que operará la unidad condensadora.
+ En esta sección, es fundamental contar con una amplia variedad de catálogos de unidades condensadoras tipo \\
+  para realizar una selección eficiente del equipo adecuado. La selección de la unidad condensadora BOHN incluye los componentes esenciales del proceso de refrigeración, como la unidad evaporadora, la unidad de expansión, el condensador o intercambiador de calor, y el compresor. Con estos elementos incluidos en el sistema BOHN, solo queda seleccionar con base en los parámetros de temperatura de almacenamiento y la carga térmica con la que operará la unidad condensadora.
  
- De acuerdo con el Catálogo Thermo King, categoría Advancer A-500 (\hyperref[fig:axo-manual-thermo-king]{anexo 7}) ), la capacidad de la unidad condensadora a una temperatura de operación de $-20^\circ C$ (muy cercana a los $-18^\circ C$ calculados) es de 
+ De acuerdo con el Catálogo BOHN, categoría Advancer A-500 (\hyperref[fig:axo-manual-thermo-king]{anexo 7}) ), la capacidad de la unidad condensadora a una temperatura de operación de $-20^\circ C$ (muy cercana a los $-18^\circ C$ calculados) es de 
  \[
  10,400\, W \left( 35,464\, \frac{BTU}{hr} \right)
  \]
@@ -752,8 +753,8 @@ Además del volumen, se deben tener en cuenta otros factores importantes, como l
  \begin{figure}[H]
  	\centering
  	\includegraphics[width=0.8\linewidth]{figures/4-seleccion-condensador}
- 	\caption{Tabla de datos recortado del catálogo de especificaciones Thermo King del anexo 7.}
- 	Fuente: \hyperref[fig:axo-manual-thermo-king]{(Thermo King, 2024)}
+ 	\caption{Tabla de datos recortado del catálogo de especificaciones BOHN del anexo 7.}
+ 	Fuente: \hyperref[fig:axo-manual-thermo-king]{(BOHN, 2024)}
  	\label{fig:4-seleccion-condensador}
  \end{figure}
  
@@ -769,7 +770,7 @@ Además del volumen, se deben tener en cuenta otros factores importantes, como l
 El esquema de la figura \ref{fig:4-blockelectric} incluye las siguientes protecciones para mantener seguros y protegidos los componentes del sistema de refrigeración:
 \begin{itemize}
 
-	\item[$\odot$] Interruptor de Circuito: Permite cortar el suministro eléctrico en caso de sobrecarga o cortocircuito, protegiendo así los componentes eléctricos.
+%	\item[$\odot$] Interruptor de Circuito: Permite cortar el suministro eléctrico en caso de sobrecarga o cortocircuito, protegiendo así los componentes eléctricos.
 
 	\item[$\odot$] Protección Contra Sobrecorriente: Previene daños al sistema eléctrico en caso de corrientes excesivas.
 
@@ -883,68 +884,7 @@ El esquema de la figura \ref{fig:4-blockelectric} incluye las siguientes protecc
  
  Considerando todos estos puntos, se diseñará un circuito que sea seguro para el operador de la cámara y mantenga la continuidad operativa de las instalaciones eléctricas.  
  
- 
- 
- 
- \subsection{Tablero de Control}
- 
- El panel de control del equipo seleccionado cuenta con un Controlador SR-4 desarrollado por Thermo King, que incorpora los últimos avances tecnológicos. Este panel no solo supervisa y regula la temperatura, sino que también gestiona integralmente el funcionamiento de la unidad de manera eficiente. A través de una interfaz de máquina humana (HMI), el microprocesador en la caja de control proporciona una operación intuitiva y amigable para el operador, mostrando información de funcionamiento de manera rápida y precisa.
- 
- La caja de control está estratégicamente ubicada en la puerta de servicio inferior para facilitar el acceso y el mantenimiento. Además, los puertos USB integrados permiten la recuperación sencilla de datos del sistema de registro, lo que proporciona una herramienta invaluable para el análisis y la optimización del rendimiento del equipo. Este diseño avanzado del panel de control no solo mejora la eficiencia operativa, sino que también garantiza un monitoreo detallado y una gestión efectiva de todas las funciones críticas del sistema de refrigeración.
- 
- En la figura 3.13 se muestra el tablero de control del equipo seleccionado, junto con las funciones que permite acceder cada botón, destacando su amigabilidad para el operador.
 
-\begin{figure}[H]
-	\centering
- \begin{tikzpicture}
-	% Draw the main panel
-	\draw[rounded corners=10pt, fill=white] (0,0) rectangle (6,4);
-	
-	% Draw the screen
-	\draw[rounded corners=5pt, fill=gray!10] (1,2.5) rectangle (5,3.5);
-	
-	% Draw the buttons with a more appealing design
-	\foreach \i in {0,1,2} {
-		\draw[rounded corners=5pt, fill=gray!20] (1+\i*1.5,1) rectangle (2+\i*1.5,1.5);
-		% Add shadow effect
-		\draw[rounded corners=5pt, fill=black!10] (1+\i*1.5,1) rectangle (2+\i*1.5,1.55);
-	}
-	
-	% Draw the button labels
-	\node[font=\large\bfseries] at (1.5,1.25) {ON};
-	\node[font=\large\bfseries] at (3,1.25) {{\tiny CYCLE}};
-	\node[font=\large\bfseries] at (4.5,1.25) {OFF};
-	
-	% Draw the indicator lights with distinct colors
-	\foreach \i in {1,2} {
-		\fill[red] (5.2,3.2-\i*0.4) circle (0.1);
-	}
-	
-	% Draw the temperature display
-	\node[font=\huge\bfseries] at (3,3) {35.8};
-	
-	
-	% Draw panel title
-	\node[font=\Large\bfseries] at (3,3.8) {THERMO KING};
-	
-	
-	
-\end{tikzpicture}
-\caption{Pantalla del panel de control}
-Fuente: Elaboración propia basado de \hyperref[fig:axo-manual-thermo-king]{(Thermo King, 2024)}
-\end{figure}
- 
- 
- 
- 
- 
-   1. Tecla On de encendido (tecla fija);
-   2. Tecla Off de apagado (tecla fija);
-   3. Pantalla;
-   4. Tecla Descarche (tecla fija);
-   5. Tecla de modo continuo o CYCLE-SENTRY (tecla fija);
-   6. Teclas de software;
- 
  
 \subsection{Esquema del sistema eléctrico}
 \begin{figure}[H]
