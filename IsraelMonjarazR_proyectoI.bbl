@@ -215,6 +215,29 @@ bibliocad.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Bohn%
+}{%
+Bohn%
+}{%
+{\protect \APACyear {2024}}%
+}]{%
+bohn2024}
+\APACinsertmetastar {%
+bohn2024}%
+\begin{APACrefauthors}%
+Bohn.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{}{}.
+\newblock
+\APACrefbtitle {Bohn - Equipos de Refrigeración.} {Bohn - equipos de
+  refrigeración.}
+\newblock
+\begin{APACrefURL} \url{https://www.bohn.com.mx/index.html} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Bohn~de México%
 }{%
 Bohn~de México%
@@ -643,6 +666,34 @@ Curiosfera.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+DataMexico%
+}{%
+DataMexico%
+}{%
+{\protect \APACyear {2024}}%
+}]{%
+salarioingeniero}
+\APACinsertmetastar {%
+salarioingeniero}%
+\begin{APACrefauthors}%
+DataMexico.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{}{}.
+\newblock
+\APACrefbtitle {Salario promedio mensual de Ingenieros Mecánicos en México en
+  2024.} {Salario promedio mensual de ingenieros mecánicos en méxico en
+  2024.}
+\newblock
+\begin{APACrefURL}
+  \url{https://www.economia.gob.mx/datamexico/es/profile/occupation/ingenieros-mecanicos}
+  \end{APACrefURL}
+\newblock
+\APACrefnote{Última consulta: diciembre 2024}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 DataMéxico%
 }{%
 DataMéxico%
@@ -718,6 +769,33 @@ De~Leon, E.%
 \begin{APACrefURL}
   \url{https://www.edificacionescien.com/es/blog-cien-3/33-construccion-y-diseno-de-una-camara-frigorifica.html}
   \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Depot%
+}{%
+Depot%
+}{%
+{\protect \APACyear {2024}}%
+}]{%
+poliuretanohomedepot}
+\APACinsertmetastar {%
+poliuretanohomedepot}%
+\begin{APACrefauthors}%
+Depot, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{}{}.
+\newblock
+\APACrefbtitle {Sista Espuma Expansiva de Poliuretano Universal 750 ml.} {Sista
+  espuma expansiva de poliuretano universal 750 ml.}
+\newblock
+\begin{APACrefURL}
+  \url{https://www.homedepot.com.mx/p/sista-espuma-expansiva-de-poliuretano-universal-750-ml-2546755-724369?srsltid=AfmBOorXlwO5AMUsIy6wd31C6pYFfnWzwJ0aNEuTp3L_O_Yx59fXu77s}
+  \end{APACrefURL}
+\newblock
+\APACrefnote{Última consulta: diciembre 2024}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -836,9 +914,9 @@ Dincer, I.%
 \newblock
 \APACrefYear{2010}.
 \newblock
-\APACrefbtitle {Refrigeration Systems and Applications 2E: Din{\c
-  c}er/refrigeration systems and applications} {Refrigeration systems and
-  applications 2e: Din{\c c}er/refrigeration systems and applications}.
+\APACrefbtitle {Refrigeration Systems and Applications 2E: Dincer refrigeration
+  systems and applications} {Refrigeration systems and applications 2e: Dincer
+  refrigeration systems and applications}.
 \newblock
 \APACaddressPublisher{Hoboken, NJ, Estados Unidos de
   Am{\'e}rica}{Wiley-Blackwell}.
@@ -1472,6 +1550,31 @@ Lucidchart.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+MABE%
+}{%
+MABE%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+mabe2024}
+\APACinsertmetastar {%
+mabe2024}%
+\begin{APACrefauthors}%
+MABE.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+\APACrefbtitle {{Evaporador refrigerador ensamble - WR01F03929}.} {{Evaporador
+  refrigerador ensamble - WR01F03929}.}
+\newblock
+\begin{APACrefURL}
+  \url{https://servicio.mabeglobal.com/es_MX/Refrigeraci%C3%B3n-Refacciones/Refrigeradores-Refacciones/Evaporador-Refrigerador-Ensamble---WR01F03929/p/WR01F03929}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Madriz-Ramírez%
 , Solano-Núñez%
 \BCBL {}\ \BBA {} Rodríguez-Calvo%
@@ -1548,6 +1651,26 @@ Marrelli, S.%
 \APAChowpublished {{https://sebamarrelli.blogspot.com/p/necesidades.html}}.
 \newblock
 \APACrefnote{Recuperado el 26 de abril de 2024}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+MercadoLibre%
+}{%
+MercadoLibre%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+ml2024}
+\APACinsertmetastar {%
+ml2024}%
+\begin{APACrefauthors}%
+MercadoLibre.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%

@@ -1,8 +1,129 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{}
 
-\bibitem{Hundy1984}
-G.~F. Hundy, A.~R. Trott, and T.~C. Welch.
-\newblock {\em Refrigeration and Air Conditioning}.
-\newblock Butterworth-Heinemann, El Sevier, 4th edition, 1984.
+\bibitem [\protect \citeauthoryear {%
+{ASHRAE | Ashrae.org}%
+}{%
+{ASHRAE | Ashrae.org}%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+ashrae-about}
+\APACinsertmetastar {%
+ashrae-about}%
+\begin{APACrefauthors}%
+{ASHRAE | Ashrae.org}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACrefbtitle {{Web Starter Kit}.} {{Web Starter Kit}.}
+\newblock
+\APACrefnote{https://www.ashrae.org/about}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Bohn~de México%
+}{%
+Bohn~de México%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+bohn}
+\APACinsertmetastar {%
+bohn}%
+\begin{APACrefauthors}%
+Bohn~de México, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+\APACrefbtitle {{BOHN - Líder en la fabricación de Equipos de Refrigeración
+  Comercial e Industrial}.} {{BOHN - Líder en la fabricación de Equipos de
+  Refrigeración Comercial e Industrial}.}
+\newblock
+\APAChowpublished {https://www.bohn.com.mx/}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Dincer%
+\ \BBA {} Kanoglu%
+}{%
+Dincer%
+\ \BBA {} Kanoglu%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+Dincer2010-re}
+\APACinsertmetastar {%
+Dincer2010-re}%
+\begin{APACrefauthors}%
+Dincer, I.%
+\BCBT {}\ \BBA {} Kanoglu, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2010}.
+\newblock
+\APACrefbtitle {Refrigeration Systems and Applications 2E:
+  Din{\cc}er/refrigeration systems and applications} {Refrigeration systems and
+  applications 2e: Din{\cc}er/refrigeration systems and applications}.
+\newblock
+\APACaddressPublisher{Hoboken, NJ, Estados Unidos de
+  Am{\'e}rica}{Wiley-Blackwell}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Dincer%
+\ \BBA {} Ratlamwala%
+}{%
+Dincer%
+\ \BBA {} Ratlamwala%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+dincer-2016}
+\APACinsertmetastar {%
+dincer-2016}%
+\begin{APACrefauthors}%
+Dincer, I.%
+\BCBT {}\ \BBA {} Ratlamwala, T\BPBI A\BPBI H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2016}.
+\newblock
+\APACrefbtitle {{Integrated Absorption Refrigeration systems}} {{Integrated
+  Absorption Refrigeration systems}}.
+\newblock
+\APACaddressPublisher{}{Springer}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Área tecnologia%
+}{%
+Área tecnologia%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+areatecnologia}
+\APACinsertmetastar {%
+areatecnologia}%
+\begin{APACrefauthors}%
+Área tecnologia.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+\APACrefbtitle {{El interruptor magnetotérmico. funcionamiento, curvas,
+  selectividad.}} {{El interruptor magnetotérmico. funcionamiento, curvas,
+  selectividad.}}
+\newblock
+\begin{APACrefURL}
+  \url{https://www.areatecnologia.com/electricidad/magnetotermico.html#google_vignette}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}

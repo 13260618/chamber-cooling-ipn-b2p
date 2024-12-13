@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.8)  9 DEC 2024 12:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.8)  13 DEC 2024 13:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -24,7 +24,6 @@ File: size11.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip50
 \bibindent=\dimen141
 )
-(librerias.tex
 (C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/base\inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks17
@@ -67,7 +66,7 @@ Package babel Info: Making . an active character on input line 675.
 anish.tex
 Package babel Info: Importing font and identification data for spanish
 (babel)             from babel-es.ini. Reported on input line 11.
-)
+) (librerias.tex
 (C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
@@ -792,4 +791,2718 @@ File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@yx=\dimen280
 \pgf@yy=\dimen281
 \pgf@zx=\dimen282
-\p
+\pgf@zy=\dimen283
+)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcorepa
+thconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen284
+\pgf@path@lasty=\dimen285
+)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcorepa
+thusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen286
+\pgf@shorten@start@additional=\dimen287
+)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcoresc
+opes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box116
+\pgf@hbox=\box117
+\pgf@layerbox@main=\box118
+\pgf@picture@serial@count=\count345
+)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcoregr
+aphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen288
+)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcoretr
+ansformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen289
+\pgf@pt@y=\dimen290
+\pgf@pt@temp=\dimen291
+)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcorequ
+ick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcoreob
+jects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcorepa
+thprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcorear
+rows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen292
+)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcoresh
+ade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen293
+\pgf@sys@shading@range@num=\count346
+\pgf@shadingcount=\count347
+)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcoreim
+age.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcoreex
+ternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box119
+)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcorela
+yers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcoretr
+ansparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcorepa
+tterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcorerd
+f.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/modules\pgfmodulesha
+pes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box120
+)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/modules\pgfmoduleplo
+t.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/pgf/compatibility\pgfcomp-
+version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen294
+\pgf@nodesepend=\dimen295
+)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/pgf/compatibility\pgfcomp-
+version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/pgf/utilities\pgffor.sty
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/pgf/utilities\pgfkeys.sty
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/utilities\pgfkeys.co
+de.tex))
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/math\pgfmath.code.te
+x))
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/utilities\pgffor.cod
+e.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen296
+\pgffor@skip=\dimen297
+\pgffor@stack=\toks47
+\pgffor@toks=\toks48
+))
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/frontendlayer/tikz\t
+ikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/libraries\pgflibrary
+plothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count348
+\pgfplotmarksize=\dimen298
+)
+\tikz@lastx=\dimen299
+\tikz@lasty=\dimen300
+\tikz@lastxsaved=\dimen301
+\tikz@lastysaved=\dimen302
+\tikz@lastmovetox=\dimen303
+\tikz@lastmovetoy=\dimen304
+\tikzleveldistance=\dimen305
+\tikzsiblingdistance=\dimen306
+\tikz@figbox=\box121
+\tikz@figbox@bg=\box122
+\tikz@tempbox=\box123
+\tikz@tempbox@bg=\box124
+\tikztreelevel=\count349
+\tikznumberofchildren=\count350
+\tikznumberofcurrentchild=\count351
+\tikz@fig@count=\count352
+
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/modules\pgfmodulemat
+rix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count353
+\pgfmatrixcurrentcolumn=\count354
+\pgf@matrix@numberofcolumns=\count355
+)
+\tikz@expandcount=\count356
+
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/frontendlayer/tikz/l
+ibraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/frontendlayer/tikz/l
+ibraries\tikzlibrarydecorations.markings.code.tex
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/frontendlayer/tikz/l
+ibraries\tikzlibrarydecorations.code.tex
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/modules\pgfmoduledec
+orations.code.tex
+\pgfdecoratedcompleteddistance=\dimen307
+\pgfdecoratedremainingdistance=\dimen308
+\pgfdecoratedinputsegmentcompleteddistance=\dimen309
+\pgfdecoratedinputsegmentremainingdistance=\dimen310
+\pgf@decorate@distancetomove=\dimen311
+\pgf@decorate@repeatstate=\count357
+\pgfdecorationsegmentamplitude=\dimen312
+\pgfdecorationsegmentlength=\dimen313
+)
+\tikz@lib@dec@box=\box125
+)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/libraries/decoration
+s\pgflibrarydecorations.markings.code.tex))
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/frontendlayer/tikz/l
+ibraries\tikzlibraryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/frontendlayer/tikz/l
+ibraries\tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/libraries/shapes\pgf
+libraryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/frontendlayer/tikz/l
+ibraries\tikzlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/libraries/shapes\pgf
+libraryshapes.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/frontendlayer/tikz/l
+ibraries\tikzlibraryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/libraries/shapes\pgf
+libraryshapes.symbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/frontendlayer/tikz/l
+ibraries\tikzlibraryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/libraries/shapes\pgf
+libraryshapes.arrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/frontendlayer/tikz/l
+ibraries\tikzlibraryshapes.callouts.code.tex
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/libraries/shapes\pgf
+libraryshapes.callouts.code.tex))
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/frontendlayer/tikz/l
+ibraries\tikzlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/libraries/shapes\pgf
+libraryshapes.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodepartlowerbox=\box126
+\pgfnodeparttwobox=\box127
+\pgfnodepartthreebox=\box128
+\pgfnodepartfourbox=\box129
+\pgfnodeparttwentybox=\box130
+\pgfnodepartnineteenbox=\box131
+\pgfnodeparteighteenbox=\box132
+\pgfnodepartseventeenbox=\box133
+\pgfnodepartsixteenbox=\box134
+\pgfnodepartfifteenbox=\box135
+\pgfnodepartfourteenbox=\box136
+\pgfnodepartthirteenbox=\box137
+\pgfnodeparttwelvebox=\box138
+\pgfnodepartelevenbox=\box139
+\pgfnodeparttenbox=\box140
+\pgfnodepartninebox=\box141
+\pgfnodeparteightbox=\box142
+\pgfnodepartsevenbox=\box143
+\pgfnodepartsixbox=\box144
+\pgfnodepartfivebox=\box145
+)))
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/frontendlayer/tikz/l
+ibraries\tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/libraries\pgflibrary
+arrows.code.tex
+File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\arrowsize=\dimen314
+))
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/frontendlayer/tikz/l
+ibraries\tikzlibrarymindmap.code.tex
+File: tikzlibrarymindmap.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/frontendlayer/tikz/l
+ibraries\tikzlibrarytrees.code.tex
+File: tikzlibrarytrees.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/frontendlayer/tikz/l
+ibraries\tikzlibraryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/libraries\pgflibrary
+fadings.code.tex
+File: pgflibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/frontendlayer/tikz/l
+ibraries\tikzlibrarypatterns.code.tex
+File: tikzlibrarypatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/libraries\pgflibrary
+patterns.code.tex
+File: pgflibrarypatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/libraries\pgflibrary
+arrows.meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowinset=\dimen315
+\pgfarrowlength=\dimen316
+\pgfarrowwidth=\dimen317
+\pgfarrowlinewidth=\dimen318
+)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/frontendlayer/tikz/l
+ibraries\tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/pgfplots\pgfplots.sty
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfplots\pgfplots.revisi
+on.tex)
+Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
+
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfplots\pgfplots.code.t
+ex
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfplots\pgfplotscore.co
+de.tex
+\t@pgfplots@toka=\toks49
+\t@pgfplots@tokb=\toks50
+\t@pgfplots@tokc=\toks51
+\pgfplots@tmpa=\dimen319
+\c@pgfplots@coordindex=\count358
+\c@pgfplots@scanlineindex=\count359
+
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfplots/sys\pgfplotssys
+generic.code.tex))
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfplots/libs\pgfplotsli
+brary.code.tex)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfplots/oldpgfcompatib\
+pgfplotsoldpgfsupp_loader.code.tex
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/libraries\pgflibrary
+fpu.code.tex)
+Package pgfplots: loading complementary utilities for your pgf version...
+\t@pgf@toka=\toks52
+\t@pgf@tokb=\toks53
+\t@pgf@tokc=\toks54
+
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfplots/oldpgfcompatib\
+pgfplotsoldpgfsupp_pgfutil-common-lists.tex))
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfplots/util\pgfplotsut
+il.code.tex
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfplots/liststructure\p
+gfplotsliststructure.code.tex)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfplots/liststructure\p
+gfplotsliststructureext.code.tex)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfplots/liststructure\p
+gfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count360
+)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfplots/liststructure\p
+gfplotsmatrix.code.tex)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfplots/numtable\pgfplo
+tstableshared.code.tex
+\c@pgfplotstable@counta=\count361
+\t@pgfplotstable@a=\toks55
+)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfplots/liststructure\p
+gfplotsdeque.code.tex)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfplots/util\pgfplotsbi
+nary.code.tex
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfplots/util\pgfplotsbi
+nary.data.code.tex))
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfplots/util\pgfplotsut
+il.verb.code.tex)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfplots/libs\pgflibrary
+pgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count362
+
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfplots/sys\pgflibraryp
+gfplots.surfshading.pgfsys-pdftex.def)))
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfplots/util\pgfplotsco
+lormap.code.tex
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfplots/util\pgfplotsco
+lor.code.tex))
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfplots\pgfplotsstacked
+plots.code.tex)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfplots\pgfplotsplothan
+dlers.code.tex
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfplots\pgfplotsmeshplo
+thandler.code.tex
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfplots\pgfplotsmeshplo
+timage.code.tex)))
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfplots\pgfplots.scalin
+g.code.tex)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfplots\pgfplotscoordpr
+ocessing.code.tex)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfplots\pgfplots.errorb
+ars.code.tex)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfplots\pgfplots.marker
+s.code.tex)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfplots\pgfplotsticks.c
+ode.tex)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfplots\pgfplots.paths.
+code.tex)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/frontendlayer/tikz/l
+ibraries\tikzlibrarydecorations.pathmorphing.code.tex
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/libraries/decoration
+s\pgflibrarydecorations.pathmorphing.code.tex))
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/frontendlayer/tikz/l
+ibraries\tikzlibrarydecorations.pathreplacing.code.tex
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/libraries/decoration
+s\pgflibrarydecorations.pathreplacing.code.tex))
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfplots/libs\tikzlibrar
+ypgfplots.contourlua.code.tex)
+\pgfplots@numplots=\count363
+\pgfplots@xmin@reg=\dimen320
+\pgfplots@xmax@reg=\dimen321
+\pgfplots@ymin@reg=\dimen322
+\pgfplots@ymax@reg=\dimen323
+\pgfplots@zmin@reg=\dimen324
+\pgfplots@zmax@reg=\dimen325
+)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/frontendlayer/tikz/l
+ibraries\tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/libraries\pgflibrary
+plotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/fontawesome\fontawesome.st
+y
+Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
+ (C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/iftex\ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/iftex\ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/fontawesome\fontawesomesym
+bols-generic.tex)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/fontawesome\fontawesomesym
+bols-pdftex.tex))
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box146
+\beforetitleunit=\skip92
+\aftertitleunit=\skip93
+\ttl@plus=\dimen326
+\ttl@minus=\dimen327
+\ttl@toksa=\toks56
+\titlewidth=\dimen328
+\titlewidthlast=\dimen329
+\titlewidthfirst=\dimen330
+)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen331
+\captionmargin=\dimen332
+\caption@leftmargin=\dimen333
+\caption@rightmargin=\dimen334
+\caption@width=\dimen335
+\caption@indent=\dimen336
+\caption@parindent=\dimen337
+\caption@hangindent=\dimen338
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count364
+\c@continuedfloat=\count365
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/caption\ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+))
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/tocbibind\tocbibind.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) (C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/ulem\ulem.sty
+\UL@box=\box147
+\UL@hyphenbox=\box148
+\UL@skip=\skip94
+\UL@hook=\toks57
+\UL@height=\dimen339
+\UL@pe=\count366
+\UL@pixel=\dimen340
+\ULC@box=\box149
+Package: ulem 2019/11/18
+\ULdepth=\dimen341
+)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/siunitx\siunitx.sty
+Package: siunitx 2024-11-19 v3.3.24 A comprehensive (SI) units package
+\l__siunitx_number_uncert_offset_int=\count367
+\l__siunitx_number_exponent_fixed_int=\count368
+\l__siunitx_number_min_decimal_int=\count369
+\l__siunitx_number_min_integer_int=\count370
+\l__siunitx_number_round_precision_int=\count371
+\l__siunitx_number_lower_threshold_int=\count372
+\l__siunitx_number_upper_threshold_int=\count373
+\l__siunitx_number_group_first_int=\count374
+\l__siunitx_number_group_size_int=\count375
+\l__siunitx_number_group_minimum_int=\count376
+\l__siunitx_angle_tmp_dim=\dimen342
+\l__siunitx_angle_marker_box=\box150
+\l__siunitx_angle_unit_box=\box151
+\l__siunitx_compound_count_int=\count377
+
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/translations\translations.
+sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
+ (CN)
+)
+\l__siunitx_table_tmp_box=\box152
+\l__siunitx_table_tmp_dim=\dimen343
+\l__siunitx_table_column_width_dim=\dimen344
+\l__siunitx_table_integer_box=\box153
+\l__siunitx_table_decimal_box=\box154
+\l__siunitx_table_uncert_box=\box155
+\l__siunitx_table_before_box=\box156
+\l__siunitx_table_after_box=\box157
+\l__siunitx_table_before_dim=\dimen345
+\l__siunitx_table_carry_dim=\dimen346
+\l__siunitx_unit_tmp_int=\count378
+\l__siunitx_unit_position_int=\count379
+\l__siunitx_unit_total_int=\count380
+)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2024/07/06 v1.0i Color table columns (DPC)
+\everycr=\toks58
+\minrowclearance=\skip95
+\rownum=\count381
+)
+
+LaTeX Warning: Package "xcolor" has already been loaded: ignoring load-time
+(LaTeX)        option "xcdraw".
+
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/tocloft\tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip96
+\cftbeforetoctitleskip=\skip97
+\cftaftertoctitleskip=\skip98
+\cftbeforepartskip=\skip99
+\cftpartnumwidth=\skip100
+\cftpartindent=\skip101
+\cftbeforechapskip=\skip102
+\cftchapindent=\skip103
+\cftchapnumwidth=\skip104
+\cftbeforesecskip=\skip105
+\cftsecindent=\skip106
+\cftsecnumwidth=\skip107
+\cftbeforesubsecskip=\skip108
+\cftsubsecindent=\skip109
+\cftsubsecnumwidth=\skip110
+\cftbeforesubsubsecskip=\skip111
+\cftsubsubsecindent=\skip112
+\cftsubsubsecnumwidth=\skip113
+\cftbeforeparaskip=\skip114
+\cftparaindent=\skip115
+\cftparanumwidth=\skip116
+\cftbeforesubparaskip=\skip117
+\cftsubparaindent=\skip118
+\cftsubparanumwidth=\skip119
+\cftbeforeloftitleskip=\skip120
+\cftafterloftitleskip=\skip121
+\cftbeforefigskip=\skip122
+\cftfigindent=\skip123
+\cftfignumwidth=\skip124
+\c@lofdepth=\count382
+\c@lotdepth=\count383
+\cftbeforelottitleskip=\skip125
+\cftafterlottitleskip=\skip126
+\cftbeforetabskip=\skip127
+\cfttabindent=\skip128
+\cfttabnumwidth=\skip129
+
+
+Package tocloft Warning: \@starttoc has already been redefined; tocloft bailing
+ out. on input line 1156.
+
+)
+\c@eqn=\count384
+\cftbeforeeqnskip=\skip130
+\cfteqnindent=\skip131
+\cfteqnnumwidth=\skip132
+\c@sectiondepth=\count385
+\cftbeforesectiontitleskip=\skip133
+\cftaftersectiontitleskip=\skip134
+) (C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count386
+\Gm@cntv=\count387
+\c@Gm@tempcnt=\count388
+\Gm@bindingoffset=\dimen347
+\Gm@wd@mp=\dimen348
+\Gm@odd@mp=\dimen349
+\Gm@even@mp=\dimen350
+\Gm@layoutwidth=\dimen351
+\Gm@layoutheight=\dimen352
+\Gm@layouthoffset=\dimen353
+\Gm@layoutvoffset=\dimen354
+\Gm@dimlist=\toks59
+
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/geometry\geometry.cfg))
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/apacite\apacite.sty
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count389
+\bibleftmargin=\skip135
+\bibindent=\skip136
+\bibparsep=\skip137
+\bibitemsep=\skip138
+\biblabelsep=\skip139
+)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/chngcntr\chngcntr.sty
+Package: chngcntr 2018/04/09 v1.1a change counter resetting
+Package chngcntr Info: \counterwithout already defined.
+(chngcntr)             Quitting chngcntr on input line 21.
+)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/psnfss\pifont.sty
+Package: pifont 2020/03/25 PSNFSS-v9.3 Pi font support (SPQR) 
+LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
+
+
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/psnfss\upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
+
+
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/psnfss\upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 22
+.
+
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/psnfss\t1phv.fd
+File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
+)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/l3backend\l3backend-pdftex
+.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count390
+\l__pdf_internal_box=\box158
+) (IsraelMonjarazR_proyectoI.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+)
+\openout1 = `IsraelMonjarazR_proyectoI.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Info: Redefining \. on input line 22.
+LaTeX Info: Redefining \% on input line 22.
+
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count391
+\scratchdimen=\dimen355
+\scratchbox=\box159
+\nofMPsegments=\count392
+\nofMParguments=\count393
+\everyMPshowfont=\toks60
+\MPscratchCnt=\count394
+\MPscratchDim=\dimen356
+\MPnumerator=\count395
+\makeMPintoPDFobject=\count396
+\everyMPtoPDFconversion=\toks61
+)
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/epstopdf-pkg\epstopdf-base
+.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+)) (C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/pdflscape\pdflscape-nometa
+data.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+Package hyperref Info: Link coloring OFF on input line 22.
+ (IsraelMonjarazR_proyectoI.out) (IsraelMonjarazR_proyectoI.out)
+\@outlinefile=\write4
+\openout4 = `IsraelMonjarazR_proyectoI.out'.
+
+\c@lstlisting=\count397
+
+
+Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
+ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into 
+your preamble.
+ on input line 22.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/translations/dicts\transla
+tions-basic-dictionary-spanish.trsl
+File: translations-basic-dictionary-spanish.trsl (spanish translation file `tra
+nslations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `spanish'. on input line 22.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 441.01773pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=441.01773pt
+* \textheight=702.78308pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=50.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@maskedRefs=\count398
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/apacite\spanish.apc
+File: spanish.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 138.
+LaTeX Info: Redefining \BHBI on input line 139.
+)
+<portada.pdf, id=677, 597.50829pt x 845.0471pt>
+File: portada.pdf Graphic file (type pdf)
+<use portada.pdf>
+Package pdftex.def Info: portada.pdf  used on input line 51.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: portada.pdf Graphic file (type pdf)
+<use portada.pdf>
+Package pdftex.def Info: portada.pdf  used on input line 51.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+<portada.pdf, id=680, page=1, 597.50829pt x 845.0471pt>
+File: portada.pdf Graphic file (type pdf)
+<use portada.pdf, page 1>
+Package pdftex.def Info: portada.pdf , page1 used on input line 51.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: portada.pdf Graphic file (type pdf)
+<use portada.pdf, page 1>
+Package pdftex.def Info: portada.pdf , page1 used on input line 51.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: portada.pdf Graphic file (type pdf)
+<use portada.pdf, page 1>
+Package pdftex.def Info: portada.pdf , page1 used on input line 51.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: portada.pdf Graphic file (type pdf)
+<use portada.pdf, page 1>
+Package pdftex.def Info: portada.pdf , page1 used on input line 51.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+
+File: portada.pdf Graphic file (type pdf)
+<use portada.pdf, page 1>
+Package pdftex.def Info: portada.pdf , page1 used on input line 51.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+[1
+
+
+ <./portada.pdf{C:/Users/ibrr9/AppData/Local/MiKTeX/2.9/fonts/map/pdftex/pdftex
+.map}>]
+<portada.pdf, id=715, page=2, 597.50829pt x 845.0471pt>
+File: portada.pdf Graphic file (type pdf)
+<use portada.pdf, page 2>
+Package pdftex.def Info: portada.pdf , page2 used on input line 51.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: portada.pdf Graphic file (type pdf)
+<use portada.pdf, page 2>
+Package pdftex.def Info: portada.pdf , page2 used on input line 51.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+
+File: portada.pdf Graphic file (type pdf)
+<use portada.pdf, page 2>
+Package pdftex.def Info: portada.pdf , page2 used on input line 51.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+[2
+
+ <./portada.pdf>] (previos.tex (IsraelMonjarazR_proyectoI.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 2
+.
+
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2
+.
+
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+2.
+
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/lm\omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+2.
+
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/lm\omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 2.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 2.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
+
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
+
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+[1{C:/Users/ibrr9/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/base/8r.enc}]
+
+[2]
+
+[3]
+
+[4])
+\tf@toc=\write5
+\openout5 = `IsraelMonjarazR_proyectoI.toc'.
+
+
+
+[5] (IsraelMonjarazR_proyectoI.lot
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+ [][] [][]\T1/phv/m/n/10.95 Calor removido en aire de enfriamiento en las condi
+ciones de 
+ []
+
+
+
+[6])
+\tf@lot=\write6
+\openout6 = `IsraelMonjarazR_proyectoI.lot'.
+
+
+
+[7] (IsraelMonjarazR_proyectoI.lof
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+
+
+[8{C:/Users/ibrr9/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/lm/lm-mathit.enc}{
+C:/Users/ibrr9/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/lm/lm-rm.enc}])
+\tf@lof=\write7
+\openout7 = `IsraelMonjarazR_proyectoI.lof'.
+
+
+
+[9]
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 32.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 32.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 32.
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.46 C
+      omo se ha mencionado el centro de nuestro paÃ­s es un punto clave y pr...
+[1]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 56.
+
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.68 \newpage
+              [2]
+
+[3]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 97.
+
+
+
+[4]) (cap1y2.tex
+
+[5]
+<figures/bg-cap1.png, id=1161, 770.88pt x 770.88pt>
+File: figures/bg-cap1.png Graphic file (type png)
+<use figures/bg-cap1.png>
+Package pdftex.def Info: figures/bg-cap1.png  used on input line 20.
+(pdftex.def)             Requested size: 441.01773pt x 441.01765pt.
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.28 \end{titlepage}
+                     [1 <./figures/bg-cap1.png>]
+
+[13]
+<figures/pozo-nieve.png, id=1185, 197.538pt x 169.5936pt>
+File: figures/pozo-nieve.png Graphic file (type png)
+<use figures/pozo-nieve.png>
+Package pdftex.def Info: figures/pozo-nieve.png  used on input line 56.
+(pdftex.def)             Requested size: 264.61333pt x 227.18694pt.
+
+Underfull \hbox (badness 1448) in paragraph at lines 68--69
+[]\T1/phv/m/n/10.95 En la antigua Grecia e Imperio Romano, se desarrollaron ing
+eniosos métodos de
+ []
+
+
+
+[14 <./figures/pozo-nieve.png>]
+
+[15]
+<figures/aparato-jacob.png, id=1212, 176.8206pt x 141.6492pt>
+File: figures/aparato-jacob.png Graphic file (type png)
+<use figures/aparato-jacob.png>
+Package pdftex.def Info: figures/aparato-jacob.png  used on input line 85.
+(pdftex.def)             Requested size: 264.61333pt x 211.98694pt.
+
+
+[16 <./figures/aparato-jacob.png>]
+<figures/niÃ±o1diabetes.png, id=1225, 197.0562pt x 151.767pt>
+File: figures/niÃ±o1diabetes.png Graphic file (type png)
+<use figures/niÃ±o1diabetes.png>
+Package pdftex.def Info: figures/niÃ±o1diabetes.png  used on input line 106.
+(pdftex.def)             Requested size: 264.61333pt x 203.8206pt.
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 1
+13.
+
+(C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/psnfss\ts1phv.fd
+File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
+)
+
+[17 <./figures/niÃ±o1diabetes.png>]
+Underfull \hbox (badness 2359) in paragraph at lines 125--126
+[]\T1/phv/m/n/10.95 El autor también describe que estos primeros modelos eran b
+astante simples y
+ []
+
+
+
+[18]
+<figures/bomba-insul.png, id=1246, 303.534pt x 133.9404pt>
+File: figures/bomba-insul.png Graphic file (type png)
+<use figures/bomba-insul.png>
+Package pdftex.def Info: figures/bomba-insul.png  used on input line 136.
+(pdftex.def)             Requested size: 308.71106pt x 136.22498pt.
+) (chapter02.tex
+
+[19 <./figures/bomba-insul.png>]
+<figures/bg-cap2.png, id=1255, 770.88pt x 770.88pt>
+File: figures/bg-cap2.png Graphic file (type png)
+<use figures/bg-cap2.png>
+Package pdftex.def Info: figures/bg-cap2.png  used on input line 23.
+(pdftex.def)             Requested size: 441.01773pt x 441.01765pt.
+LaTeX Font Info:    Font shape `T1/phv/b/it' in size <17.28> not available
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 27.
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.30 \end{titlepage}
+                     [1
+
+ <./figures/bg-cap2.png>]
+Underfull \hbox (badness 3281) in paragraph at lines 53--54
+[]\T1/phv/m/n/10.95 Últimamente, comprender las características específicas de 
+la insulina, como su
+ []
+
+
+
+[21]
+Underfull \hbox (badness 1194) in paragraph at lines 68--69
+[]\T1/phv/m/n/10.95 La mayoría de las personas asocian probablemente el término
+ -efrigeraciónçon un
+ []
+
+<figures/ciclo-termo.png, id=1277, 386.94562pt x 252.19218pt>
+File: figures/ciclo-termo.png Graphic file (type png)
+<use figures/ciclo-termo.png>
+Package pdftex.def Info: figures/ciclo-termo.png  used on input line 77.
+(pdftex.def)             Requested size: 308.71106pt x 201.20372pt.
+
+
+[22]
+<figures/compresionelec.png, id=1288, 192.2382pt x 144.0582pt>
+File: figures/compresionelec.png Graphic file (type png)
+<use figures/compresionelec.png>
+Package pdftex.def Info: figures/compresionelec.png  used on input line 95.
+(pdftex.def)             Requested size: 264.61333pt x 198.31252pt.
+
+
+[23 <./figures/ciclo-termo.png> <./figures/compresionelec.png>]
+<figures/refexper.png, id=1300, 337.7418pt x 118.041pt>
+File: figures/refexper.png Graphic file (type png)
+<use figures/refexper.png>
+Package pdftex.def Info: figures/refexper.png  used on input line 106.
+(pdftex.def)             Requested size: 264.61333pt x 92.48766pt.
+
+Underfull \hbox (badness 1895) in paragraph at lines 115--116
+[]\T1/phv/m/n/10.95 Los dispositivos solares son ideales para almacenar y conse
+rvar vacunas o
+ []
+
+<figures/refsolar.png, id=1304, 220.1826pt x 169.1118pt>
+File: figures/refsolar.png Graphic file (type png)
+<use figures/refsolar.png>
+Package pdftex.def Info: figures/refsolar.png  used on input line 120.
+(pdftex.def)             Requested size: 264.61333pt x 203.25826pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+
+ []
+
+<figures/reficeline.png, id=1308, 181.1568pt x 175.3752pt>
+File: figures/reficeline.png Graphic file (type png)
+<use figures/reficeline.png>
+Package pdftex.def Info: figures/reficeline.png  used on input line 131.
+(pdftex.def)             Requested size: 264.61333pt x 256.16608pt.
+
+
+[24 <./figures/refexper.png> <./figures/refsolar.png>]
+
+[25 <./figures/reficeline.png>]
+Underfull \hbox (badness 2073) in paragraph at lines 152--155
+[]\T1/phv/m/n/10.95 NOM-12-ENER-2019, Eficiencia energética de unidades condens
+adoras y
+ []
+
+
+
+[26]
+
+[27]
+<figures/mapsumf40.png, id=1357, 217.7736pt x 137.313pt>
+File: figures/mapsumf40.png Graphic file (type png)
+<use figures/mapsumf40.png>
+Package pdftex.def Info: figures/mapsumf40.png  used on input line 234.
+(pdftex.def)             Requested size: 264.61333pt x 166.8637pt.
+
+
+[28]
+<figures/sateliteumf41.png, id=1362, 225.0006pt x 146.949pt>
+File: figures/sateliteumf41.png Graphic file (type png)
+<use figures/sateliteumf41.png>
+Package pdftex.def Info: figures/sateliteumf41.png  used on input line 241.
+(pdftex.def)             Requested size: 264.61333pt x 172.81981pt.
+<figures/climadf.png, id=1367, 120.45pt x 154.176pt>
+File: figures/climadf.png Graphic file (type png)
+<use figures/climadf.png>
+Package pdftex.def Info: figures/climadf.png  used on input line 258.
+(pdftex.def)             Requested size: 264.61333pt x 338.73886pt.
+
+
+[29 <./figures/mapsumf40.png> <./figures/sateliteumf41.png>]
+<figures/calordf.png, id=1377, 164.2938pt x 156.585pt>
+File: figures/calordf.png Graphic file (type png)
+<use figures/calordf.png>
+Package pdftex.def Info: figures/calordf.png  used on input line 266.
+(pdftex.def)             Requested size: 264.61333pt x 252.216pt.
+
+Underfull \hbox (badness 2293) in paragraph at lines 275--276
+[]\T1/phv/m/n/10.95 La diabetes mellitus (DM) forma un grupo de enfermedades cr
+ónico-degenerativa
+ []
+
+
+
+[30 <./figures/climadf.png> <./figures/calordf.png>]
+<figures/structureinsuline.png, id=1388, 150.8034pt x 150.8034pt>
+File: figures/structureinsuline.png Graphic file (type png)
+<use figures/structureinsuline.png>
+Package pdftex.def Info: figures/structureinsuline.png  used on input line 282.
+
+(pdftex.def)             Requested size: 158.76665pt x 158.77162pt.
+<figures/insulinbottle.png, id=1389, 145.5036pt x 145.5036pt>
+File: figures/insulinbottle.png Graphic file (type png)
+<use figures/insulinbottle.png>
+Package pdftex.def Info: figures/insulinbottle.png  used on input line 282.
+(pdftex.def)             Requested size: 158.76665pt x 158.76894pt.
+
+
+[31 <./figures/structureinsuline.png> <./figures/insulinbottle.png>]
+<figures/suministro.png, id=1411, 472.164pt x 67.452pt>
+File: figures/suministro.png Graphic file (type png)
+<use figures/suministro.png>
+Package pdftex.def Info: figures/suministro.png  used on input line 320.
+(pdftex.def)             Requested size: 472.16284pt x 67.45183pt.
+
+Overfull \hbox (31.14511pt too wide) in paragraph at lines 320--321
+ [][] 
+ []
+
+
+
+[32 <./figures/suministro.png>]) (cap3.tex
+
+[33]
+<figures/design-enfria2.jpg, id=1437, 443.40656pt x 261.22594pt>
+File: figures/design-enfria2.jpg Graphic file (type jpg)
+<use figures/design-enfria2.jpg>
+Package pdftex.def Info: figures/design-enfria2.jpg  used on input line 14.
+(pdftex.def)             Requested size: 441.01773pt x 259.83417pt.
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.19 \end{titlepage}
+                     [1
+
+ <./figures/design-enfria2.jpg>]
+
+[35]
+Underfull \hbox (badness 1675) in paragraph at lines 51--52
+[]\T1/phv/m/n/10.95 Posteriormente, se proporciona un bosquejo general del proy
+ecto y su listado de
+ []
+
+
+
+[36]
+
+[37]
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
+
+ []
+
+
+
+[38{C:/Users/ibrr9/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/lm/lm-mathsy.enc}
+]
+<figures/lispro-insul.png, id=1489, 207.02344pt x 207.02344pt>
+File: figures/lispro-insul.png Graphic file (type png)
+<use figures/lispro-insul.png>
+Package pdftex.def Info: figures/lispro-insul.png  used on input line 121.
+(pdftex.def)             Requested size: 121.09402pt x 121.09715pt.
+<figures/lantus-insul.png, id=1492, 376.40625pt x 376.40625pt>
+File: figures/lantus-insul.png Graphic file (type png)
+<use figures/lantus-insul.png>
+Package pdftex.def Info: figures/lantus-insul.png  used on input line 126.
+(pdftex.def)             Requested size: 121.09402pt x 121.09572pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--186
+\T1/phv/m/n/10.95 en peligro todos los ecosistemas,
+ []
+
+
+Underfull \hbox (badness 7685) in paragraph at lines 190--191
+[]\T1/phv/m/n/10.95 Zona urbana: mayor parte del
+ []
+
+
+Underfull \hbox (badness 3884) in paragraph at lines 191--192
+\T1/phv/m/n/10.95 frijol, avena, nopal, hortalizas y
+ []
+
+
+
+[39 <./figures/lispro-insul.png> <./figures/lantus-insul.png>]
+Underfull \hbox (badness 1082) in paragraph at lines 204--205
+[]\T1/phv/m/n/10.95 Conservar: Proteger la insulina de condiciones ambientales 
+adversas que
+ []
+
+
+Underfull \hbox (badness 1590) in paragraph at lines 205--206
+\T1/phv/m/n/10.95 aceptables, se adjuntará un sensor de temperatura para que cu
+ando la
+ []
+
+
+
+[40]
+
+LaTeX Warning: Reference `ciclo-ref' on page 41 undefined on input line 210.
+
+<figures/ciclo-ref.png, id=1528, 444.91219pt x 354.57469pt>
+File: figures/ciclo-ref.png Graphic file (type png)
+<use figures/ciclo-ref.png>
+Package pdftex.def Info: figures/ciclo-ref.png  used on input line 225.
+(pdftex.def)             Requested size: 220.50887pt x 175.73413pt.
+
+
+[41]
+Underfull \hbox (badness 1072) in paragraph at lines 235--237
+\T1/phv/m/n/10.95 un sistema de refrigeración destinado a la preservación de la
+ insulina. Estas
+ []
+
+
+
+[42 <./figures/ciclo-ref.png>]
+Underfull \hbox (badness 2126) in paragraph at lines 260--261
+[]\T1/phv/m/n/10.95 Además, mejorar la eficiencia energética en sistemas de ref
+rigeración es crucial,
+ []
+
+
+Underfull \hbox (badness 2005) in paragraph at lines 260--261
+\T1/phv/m/n/10.95 especialmente considerando que los sistemas HVAC&R son notori
+amente grandes
+ []
+
+
+
+[43]
+
+[44]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 287.
+
+
+Overfull \hbox (2.91899pt too wide) detected at line 312
+[]
+ []
+
+
+
+[45]
+
+[46]
+<figures/cargas-ter.png, id=1611, 639.89063pt x 464.4853pt>
+File: figures/cargas-ter.png Graphic file (type png)
+<use figures/cargas-ter.png>
+Package pdftex.def Info: figures/cargas-ter.png  used on input line 366.
+(pdftex.def)             Requested size: 202.87111pt x 147.26337pt.
+
+
+[47 <./figures/cargas-ter.png>]
+
+[48]
+Underfull \hbox (badness 1348) in paragraph at lines 428--429
+\T1/phv/m/n/10.95 Las formulas descritas se tomaron de [][]Bruno[], []2024[]; [
+]Carrier[], []1980[]; []Sistemas
+ []
+
+<figures/edodis.png, id=1642, 352.31625pt x 300.3722pt>
+File: figures/edodis.png Graphic file (type png)
+<use figures/edodis.png>
+Package pdftex.def Info: figures/edodis.png  used on input line 437.
+(pdftex.def)             Requested size: 132.30666pt x 112.7997pt.
+
+Underfull \hbox (badness 1077) in paragraph at lines 431--440
+[]\T1/phv/m/n/10.95 El reglamento de ecodiseño se aplica a una amplia gama de e
+quipos, incluyendo
+ []
+
+
+Overfull \hbox (9.90273pt too wide) in paragraph at lines 444--464
+ [] 
+ []
+
+
+
+[49 <./figures/edodis.png>]
+
+[50]
+Underfull \hbox (badness 1097) in paragraph at lines 522--523
+[]\T1/phv/b/n/10.95 Diseño conceptual y distribución de equipos\T1/phv/m/n/10.9
+5 : Con base en los cálculos y
+ []
+
+
+Underfull \hbox (badness 3746) in paragraph at lines 524--525
+[]\T1/phv/b/n/10.95 Consideraciones adicionales\T1/phv/m/n/10.95 : Se tendrán e
+n cuenta otras consideraciones
+ []
+
+
+Underfull \hbox (badness 1320) in paragraph at lines 524--525
+\T1/phv/m/n/10.95 importantes, como la instalación de sistemas de monitoreo de 
+temperatura y
+ []
+
+
+Underfull \hbox (badness 1735) in paragraph at lines 527--537
+\T1/phv/m/n/10.95 a almacenar, así como indicar donde se colocaran las puertas 
+y ventanas, para
+ []
+
+
+
+[51]
+<figures/paredes-refri.png, id=1676, 519.9425pt x 497.86pt>
+File: figures/paredes-refri.png Graphic file (type png)
+<use figures/paredes-refri.png>
+Package pdftex.def Info: figures/paredes-refri.png  used on input line 553.
+(pdftex.def)             Requested size: 198.45662pt x 190.0244pt.
+
+
+[52{C:/Users/ibrr9/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/lm/lm-mathex.enc}
+]
+
+LaTeX Warning: Command \' invalid in math mode on input line 569.
+
+
+
+[53 <./figures/paredes-refri.png>]
+Overfull \hbox (44.84082pt too wide) in paragraph at lines 609--630
+ [] 
+ []
+
+
+
+[54]
+Underfull \hbox (badness 1515) in paragraph at lines 658--660
+[]\T1/phv/m/n/10.95 En [][]Velazquez[], []2020[] se mencionan otras cargas que 
+se podrían considerar como
+ []
+
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 668.
+
+
+
+[55]
+<figures/evap-func.png, id=1731, 331.2375pt x 289.08pt>
+File: figures/evap-func.png Graphic file (type png)
+<use figures/evap-func.png>
+Package pdftex.def Info: figures/evap-func.png  used on input line 681.
+(pdftex.def)             Requested size: 220.50887pt x 192.4431pt.
+<figures/evap-cad1.png, id=1732, 758.835pt x 436.63126pt>
+File: figures/evap-cad1.png Graphic file (type png)
+<use figures/evap-cad1.png>
+Package pdftex.def Info: figures/evap-cad1.png  used on input line 687.
+(pdftex.def)             Requested size: 254.02798pt x 146.16743pt.
+<figures/evap-cad2.png, id=1733, 842.39719pt x 564.60938pt>
+File: figures/evap-cad2.png Graphic file (type png)
+<use figures/evap-cad2.png>
+Package pdftex.def Info: figures/evap-cad2.png  used on input line 687.
+(pdftex.def)             Requested size: 220.50887pt x 147.79434pt.
+
+Overfull \hbox (33.51912pt too wide) in paragraph at lines 687--688
+ [][][] 
+ []
+
+
+
+[56 <./figures/evap-func.png> <./figures/evap-cad1.png> <./figures/evap-cad2.pn
+g>]
+
+[57]
+
+[58]
+
+[59]
+
+[60]
+
+[61]
+<figures/ref-comp.png, id=1805, 1131.22626pt x 701.62125pt>
+File: figures/ref-comp.png Graphic file (type png)
+<use figures/ref-comp.png>
+Package pdftex.def Info: figures/ref-comp.png  used on input line 917.
+(pdftex.def)             Requested size: 308.71106pt x 191.46367pt.
+
+Underfull \hbox (badness 1102) in paragraph at lines 922--924
+\T1/phv/m/n/10.95 suministrar agua fría a 5\TS1/phv/m/n/10.95 °\T1/phv/m/n/10.9
+5 C o aire acondicionado a 13\TS1/phv/m/n/10.95 °\T1/phv/m/n/10.95 C, debido a 
+su efectividad
+ []
+
+
+
+[62 <./figures/ref-comp.png>]
+
+LaTeX Warning: Command \' invalid in math mode on input line 933.
+
+
+Underfull \hbox (badness 1565) in paragraph at lines 944--944
+|[]\T1/phv/b/n/12 Lineamientos de regulación del sistema artefactual (Normativa
+s y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 949--950
+[]\T1/phv/m/n/10.95 NOM-12-ENER-2019, Eficiencia energética de unidades condens
+adoras y
+ []
+
+
+
+[63]
+
+LaTeX Warning: Hyper reference `sec:contexto-normativo' on page 64 undefined on
+ input line 957.
+
+
+Underfull \hbox (badness 6001) in paragraph at lines 969--970
+[]\T1/phv/m/n/10.95 Además de cumplir con los requisitos normativos, se sugiere
+n las siguientes
+ []
+
+
+
+[64]
+Underfull \hbox (badness 1137) in paragraph at lines 1004--1005
+\T1/phv/m/n/10.95 como puertas o paneles desmontables, asegurándose de que esté
+n ubicados
+ []
+
+<figures/design-cooler2.png, id=1837, 222.8325pt x 213.04594pt>
+File: figures/design-cooler2.png Graphic file (type png)
+<use figures/design-cooler2.png>
+Package pdftex.def Info: figures/design-cooler2.png  used on input line 1015.
+(pdftex.def)             Requested size: 264.61333pt x 253.01093pt.
+<figures/design-latder.png, id=1838, 236.5638pt x 186.4566pt>
+File: figures/design-latder.png Graphic file (type png)
+<use figures/design-latder.png>
+Package pdftex.def Info: figures/design-latder.png  used on input line 1021.
+(pdftex.def)             Requested size: 264.61333pt x 208.56537pt.
+
+
+[65]
+
+[66 <./figures/design-cooler2.png> <./figures/design-latder.png>]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 1042.
+
+
+
+[67]
+Overfull \hbox (22.34027pt too wide) in paragraph at lines 1140--1140
+ [][]\T1/phv/m/n/10 Medicamentos 
+ []
+
+
+Overfull \hbox (12.66675pt too wide) in paragraph at lines 1140--1140
+ [][]\T1/phv/m/n/10 Controlar 
+ []
+
+
+Overfull \hbox (9.89687pt too wide) in paragraph at lines 1140--1140
+ \T1/phv/m/n/10 pérdidas 
+ []
+
+
+Overfull \hbox (30.25655pt too wide) in paragraph at lines 1140--1140
+ \T1/phv/m/n/10 temperaturas 
+ []
+
+
+Overfull \hbox (22.34027pt too wide) in paragraph at lines 1140--1140
+ \T1/phv/m/n/10 medicamentos 
+ []
+
+
+Overfull \hbox (14.90674pt too wide) in paragraph at lines 1140--1140
+ [][]\T1/phv/m/n/10 Inocuidad 
+ []
+
+
+Overfull \hbox (3.027pt too wide) in paragraph at lines 1140--1140
+ \T1/phv/m/n/10 pública 
+ []
+
+
+Overfull \hbox (3.22694pt too wide) in paragraph at lines 1140--1140
+ \T1/phv/m/n/10 calidad 
+ []
+
+
+Overfull \hbox (4.4002pt too wide) in paragraph at lines 1140--1140
+ \T1/phv/m/n/10 mortalidad 
+ []
+
+
+Overfull \hbox (28.59665pt too wide) in paragraph at lines 1140--1140
+ [][]\T1/phv/m/n/10 Tratamientos 
+ []
+
+
+Overfull \hbox (7.11696pt too wide) in paragraph at lines 1140--1140
+ \T1/phv/m/n/10 seguros 
+ []
+
+
+Overfull \hbox (3.77686pt too wide) in paragraph at lines 1140--1140
+ [][]\T1/phv/m/n/10 Control 
+ []
+
+
+Overfull \hbox (26.3767pt too wide) in paragraph at lines 1140--1140
+ \T1/phv/m/n/10 degradación 
+ []
+
+
+Overfull \hbox (5.44691pt too wide) in paragraph at lines 1140--1140
+ \T1/phv/m/n/10 insulina 
+ []
+
+
+
+[68]
+
+[69]
+Underfull \hbox (badness 1655) in paragraph at lines 1151--1153
+[]\T1/phv/m/n/10.95 Paneles laterales: elementos que funcionarán como paredes y
+ contendrán la
+ []
+
+
+LaTeX Warning: Reference `fig:design-enfria' on page 70 undefined on input line
+ 1156.
+
+<figures/design-front.png, id=1900, 100.6962pt x 173.9298pt>
+File: figures/design-front.png Graphic file (type png)
+<use figures/design-front.png>
+Package pdftex.def Info: figures/design-front.png  used on input line 1166.
+(pdftex.def)             Requested size: 137.81804pt x 238.06741pt.
+
+
+[70 <./figures/design-front.png>]
+<figures/lista_componentes.png, id=1916, 551.81157pt x 383.18156pt>
+File: figures/lista_componentes.png Graphic file (type png)
+<use figures/lista_componentes.png>
+Package pdftex.def Info: figures/lista_componentes.png  used on input line 1185
+.
+(pdftex.def)             Requested size: 264.61333pt x 183.7555pt.
+
+
+[71 <./figures/lista_componentes.png>]
+Underfull \hbox (badness 1454) in paragraph at lines 1228--1228
+[]\T1/phv/m/n/10.95 El compresor es el corazón del sistema de refrigeración,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1264--1264
+\T1/phv/m/n/10.95 de la cámara, asegurando condiciones
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1266--1266
+[]\T1/phv/m/n/10.95 Proporcionan lecturas precisas de la
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1270--1270
+[]\T1/phv/m/n/10.95 Proporciona energía durante apagones
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1270--1270
+\T1/phv/m/n/10.95 prolongados, asegurando el correcto
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1282--1282
+[]\T1/phv/b/n/10.95 Descripción del conjunto o integración de
+ []
+
+
+
+[72]
+Underfull \hbox (badness 10000) in paragraph at lines 1307--1307
+[]\T1/phv/b/n/10.95 Descripción del conjunto o integración de
+ []
+
+
+Underfull \hbox (badness 3068) in paragraph at lines 1315--1315
+[]\T1/phv/m/n/10.95 Permiten la organización flexible del espacio de
+ []
+
+
+Underfull \hbox (badness 3209) in paragraph at lines 1315--1315
+\T1/phv/m/n/10.95 almacenamiento, optimizando el uso del espacio
+ []
+
+
+
+[73]
+Underfull \hbox (badness 10000) in paragraph at lines 1333--1334
+
+ []
+
+
+Underfull \hbox (badness 5374) in paragraph at lines 1351--1352
+[]\T1/phv/m/n/10.95 Partes esenciales: Son aquellas cuyo fallo impactaría direc
+tamente en el
+ []
+
+
+
+[74]
+
+[75
+
+]
+
+[76
+
+]
+
+[77]
+
+[78
+
+]
+Underfull \hbox (badness 2253) in paragraph at lines 1474--1475
+[]\T1/phv/b/n/10.95 Evaluación de Costos y Factibilidad Económica\T1/phv/m/n/10
+.95 : Esta etapa permite una
+ []
+
+
+Underfull \hbox (badness 3657) in paragraph at lines 1482--1483
+[]\T1/phv/b/n/10.95 Consideraciones de Ecodiseño\T1/phv/m/n/10.95 : Se pueden i
+ncorporar consideraciones de
+ []
+
+
+Underfull \hbox (badness 1546) in paragraph at lines 1482--1483
+\T1/phv/m/n/10.95 ecodiseño, como la selección de materiales sostenibles y la o
+ptimización de
+ []
+
+<figures/final1.png, id=1985, 697.8572pt x 561.59813pt>
+File: figures/final1.png Graphic file (type png)
+<use figures/final1.png>
+Package pdftex.def Info: figures/final1.png  used on input line 1491.
+(pdftex.def)             Requested size: 264.61333pt x 212.94676pt.
+
+
+[79
+
+]
+<figures/axo-design-cableado.png, id=1997, 905.63344pt x 744.53156pt>
+File: figures/axo-design-cableado.png Graphic file (type png)
+<use figures/axo-design-cableado.png>
+Package pdftex.def Info: figures/axo-design-cableado.png  used on input line 15
+00.
+(pdftex.def)             Requested size: 264.61333pt x 217.53319pt.
+<figures/design-enfria.png, id=1998, 443.40656pt x 261.97874pt>
+File: figures/design-enfria.png Graphic file (type png)
+<use figures/design-enfria.png>
+Package pdftex.def Info: figures/design-enfria.png  used on input line 1508.
+(pdftex.def)             Requested size: 202.87111pt x 119.86409pt.
+<figures/design-ventils.png, id=2001, 566.115pt x 309.40594pt>
+File: figures/design-ventils.png Graphic file (type png)
+<use figures/design-ventils.png>
+Package pdftex.def Info: figures/design-ventils.png  used on input line 1515.
+(pdftex.def)             Requested size: 202.87111pt x 110.87616pt.
+
+
+[80 <./figures/final1.png> <./figures/axo-design-cableado.png> <./figures/desig
+n-enfria.png>]
+
+[81 <./figures/design-ventils.png>]) (cap4.tex
+
+[82]
+<figures/front-chapetr4.png, id=2024, 960.58875pt x 689.57625pt>
+File: figures/front-chapetr4.png Graphic file (type png)
+<use figures/front-chapetr4.png>
+Package pdftex.def Info: figures/front-chapetr4.png  used on input line 19.
+(pdftex.def)             Requested size: 441.01773pt x 316.59863pt.
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.25 \end{titlepage}
+                     [1
+
+ <./figures/front-chapetr4.png>]
+
+[84]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 49.
+
+
+
+[85]
+<figures/4-propuesta_sol.png, id=2052, 876.27374pt x 637.63219pt>
+File: figures/4-propuesta_sol.png Graphic file (type png)
+<use figures/4-propuesta_sol.png>
+Package pdftex.def Info: figures/4-propuesta_sol.png  used on input line 82.
+(pdftex.def)             Requested size: 352.81552pt x 256.73155pt.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 8
+4.
+ (C:\Users\ibrr9\AppData\Roaming\MiKTeX\2.9\tex/latex/lm\t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+
+[86]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 88.
+
+
+Underfull \hbox (badness 1817) in paragraph at lines 89--92
+\T1/phv/m/n/10.95 La unidad de refrigeración alberga componentes esenciales del
+ sistema, como el
+ []
+
+<figures/4-cooler_unit.png, id=2059, 389.20406pt x 358.33875pt>
+File: figures/4-cooler_unit.png Graphic file (type png)
+<use figures/4-cooler_unit.png>
+Package pdftex.def Info: figures/4-cooler_unit.png  used on input line 95.
+(pdftex.def)             Requested size: 176.40439pt x 162.42105pt.
+
+
+[87{C:/Users/ibrr9/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/lm/lm-ec.enc} <./
+figures/4-propuesta_sol.png>]
+<figures/4-evaporator.png, id=2067, 309.40594pt x 364.36125pt>
+File: figures/4-evaporator.png Graphic file (type png)
+<use figures/4-evaporator.png>
+Package pdftex.def Info: figures/4-evaporator.png  used on input line 108.
+(pdftex.def)             Requested size: 176.40439pt x 207.74365pt.
+<figures/4-evaporator2.png, id=2068, 572.1375pt x 626.34pt>
+File: figures/4-evaporator2.png Graphic file (type png)
+<use figures/4-evaporator2.png>
+Package pdftex.def Info: figures/4-evaporator2.png  used on input line 108.
+(pdftex.def)             Requested size: 176.40439pt x 193.11209pt.
+<figures/4condenser.png, id=2070, 971.12813pt x 492.33937pt>
+File: figures/4condenser.png Graphic file (type png)
+<use figures/4condenser.png>
+Package pdftex.def Info: figures/4condenser.png  used on input line 119.
+(pdftex.def)             Requested size: 264.61333pt x 134.15042pt.
+
+
+[88 <./figures/4-cooler_unit.png> <./figures/4-evaporator.png> <./figures/4-eva
+porator2.png>]
+<figures/4-compressor.png, id=2079, 518.6878pt x 516.42938pt>
+File: figures/4-compressor.png Graphic file (type png)
+<use figures/4-compressor.png>
+Package pdftex.def Info: figures/4-compressor.png  used on input line 135.
+(pdftex.def)             Requested size: 176.40439pt x 175.63882pt.
+<figures/4-compressor2.png, id=2080, 582.67688pt x 432.11438pt>
+File: figures/4-compressor2.png Graphic file (type png)
+<use figures/4-compressor2.png>
+Package pdftex.def Info: figures/4-compressor2.png  used on input line 135.
+(pdftex.def)             Requested size: 176.40439pt x 130.82214pt.
+
+
+[89 <./figures/4condenser.png>]
+<figures/4-expvalves.png, id=2087, 493.845pt x 321.45094pt>
+File: figures/4-expvalves.png Graphic file (type png)
+<use figures/4-expvalves.png>
+Package pdftex.def Info: figures/4-expvalves.png  used on input line 146.
+(pdftex.def)             Requested size: 220.50887pt x 143.52835pt.
+
+Overfull \hbox (10.98212pt too wide) in paragraph at lines 162--162
+ [][]\T1/phv/m/n/10.95 Condensador 
+ []
+
+
+Overfull \hbox (1.46664pt too wide) in paragraph at lines 166--166
+ [][]\T1/phv/m/n/10.95 Evaporador 
+ []
+
+
+
+[90 <./figures/4-compressor.png> <./figures/4-compressor2.png> <./figures/4-exp
+valves.png (PNG copy)>]
+
+[91]
+<figures/4-mexicomap.png, id=2110, 819.498pt x 483.771pt>
+File: figures/4-mexicomap.png Graphic file (type png)
+<use figures/4-mexicomap.png>
+Package pdftex.def Info: figures/4-mexicomap.png  used on input line 219.
+(pdftex.def)             Requested size: 264.61333pt x 156.2124pt.
+
+
+[92 <./figures/4-mexicomap.png>]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 228.
+
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 257.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--260
+[]\T1/phv/m/n/10.95 De acuerdo con los proveedores [][]CIMA Agencia Española[],
+ [][]2015[]) y [][]CIMA
+ []
+
+
+
+[93]
+<figures/4-frontalcharolas.png, id=2138, 597.73312pt x 372.64218pt>
+File: figures/4-frontalcharolas.png Graphic file (type png)
+<use figures/4-frontalcharolas.png>
+Package pdftex.def Info: figures/4-frontalcharolas.png  used on input line 299.
+
+(pdftex.def)             Requested size: 264.61333pt x 164.9695pt.
+
+
+[94]
+<figures/4-lateralcharolas1.png, id=2145, 228.855pt x 350.05782pt>
+File: figures/4-lateralcharolas1.png Graphic file (type png)
+<use figures/4-lateralcharolas1.png>
+Package pdftex.def Info: figures/4-lateralcharolas1.png  used on input line 310
+.
+(pdftex.def)             Requested size: 176.40439pt x 269.83911pt.
+<figures/4-lateralcharolas2.png, id=2146, 727.96968pt x 593.21625pt>
+File: figures/4-lateralcharolas2.png Graphic file (type png)
+<use figures/4-lateralcharolas2.png>
+Package pdftex.def Info: figures/4-lateralcharolas2.png  used on input line 310
+.
+(pdftex.def)             Requested size: 220.50887pt x 179.68607pt.
+<figures/4-superiorlcharolas.png, id=2148, 217.5628pt x 271.76532pt>
+File: figures/4-superiorlcharolas.png Graphic file (type png)
+<use figures/4-superiorlcharolas.png>
+Package pdftex.def Info: figures/4-superiorlcharolas.png  used on input line 32
+1.
+(pdftex.def)             Requested size: 220.50887pt x 275.4636pt.
+<figures/4-superiorlcharolas2.png, id=2149, 895.09406pt x 535.2497pt>
+File: figures/4-superiorlcharolas2.png Graphic file (type png)
+<use figures/4-superiorlcharolas2.png>
+Package pdftex.def Info: figures/4-superiorlcharolas2.png  used on input line 3
+21.
+(pdftex.def)             Requested size: 264.61333pt x 158.23215pt.
+
+Overfull \hbox (44.10446pt too wide) in paragraph at lines 321--322
+ [][][] 
+ []
+
+
+
+[95 <./figures/4-frontalcharolas.png> <./figures/4-lateralcharolas1.png> <./fig
+ures/4-lateralcharolas2.png>]
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 341.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 341.
+
+
+Overfull \hbox (2.37599pt too wide) in paragraph at lines 338--352
+ [] 
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 357--358
+[]\T1/phv/m/n/10.95 Tomando como referencia las tablas de datos mostrados en la
+s tablas, []4.1[] y []4.3[]
+ []
+
+
+
+[96 <./figures/4-superiorlcharolas.png> <./figures/4-superiorlcharolas2.png>]
+
+[97]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 437.
+
+
+
+[98]
+
+[99]
+
+[100]
+
+[101]
+Overfull \hbox (14.71048pt too wide) in paragraph at lines 615--632
+ [][] 
+ []
+
+
+
+[102]
+Underfull \hbox (badness 2213) in paragraph at lines 691--692
+[]\T1/phv/m/n/10.95 Usando la ecuación de calor para motores y sustituyendo las
+ variables con los
+ []
+
+
+Underfull \hbox (badness 1184) in paragraph at lines 691--692
+\T1/phv/m/n/10.95 y configuración de motores en el sistema. Estos cálculos son 
+fundamentales para
+ []
+
+
+Underfull \hbox (badness 1881) in paragraph at lines 691--692
+\T1/phv/m/n/10.95 dimensionar correctamente la capacidad de refrigeración reque
+rida y garantizar la
+ []
+
+
+
+[103]
+
+[104]
+<figures/4-bohn-condensador.png, id=2228, 1090.82532pt x 386.19281pt>
+File: figures/4-bohn-condensador.png Graphic file (type png)
+<use figures/4-bohn-condensador.png>
+Package pdftex.def Info: figures/4-bohn-condensador.png  used on input line 751
+.
+(pdftex.def)             Requested size: 352.81552pt x 124.9101pt.
+
+Underfull \hbox (badness 5924) in paragraph at lines 763--767
+\T1/phv/b/n/10.95 Mantenimiento del Equipo\T1/phv/m/n/10.95 : Un sistema eléctr
+ico bien diseñado contribuye al
+ []
+
+
+
+[105 <./figures/4-bohn-condensador.png>]
+Overfull \hbox (15.39473pt too wide) in paragraph at lines 792--792
+ \T1/phv/m/n/10.95 sobrecorriente 
+ []
+
+
+Overfull \hbox (4.06166pt too wide) in paragraph at lines 795--795
+ \T1/phv/m/n/10.95 temperatura 
+ []
+
+
+Overfull \hbox (6.153pt too wide) in paragraph at lines 796--796
+ \T1/phv/m/n/10.95 refrigeración 
+ []
+
+
+Overfull \hbox (1.46664pt too wide) in paragraph at lines 797--797
+ [][]\T1/phv/m/n/10.95 Evaporador 
+ []
+
+
+Overfull \hbox (7.93799pt too wide) in paragraph at lines 800--800
+ \T1/phv/m/n/10.95 sobretensión 
+ []
+
+
+Overfull \hbox (4.06166pt too wide) in paragraph at lines 801--801
+ \T1/phv/m/n/10.95 temperatura 
+ []
+
+<figures/4-disyuntor.png, id=2241, 345.54094pt x 246.1697pt>
+File: figures/4-disyuntor.png Graphic file (type png)
+<use figures/4-disyuntor.png>
+Package pdftex.def Info: figures/4-disyuntor.png  used on input line 834.
+(pdftex.def)             Requested size: 264.61333pt x 188.51826pt.
+
+
+[106]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 870.
+
+
+
+[107 <./figures/4-disyuntor.png>]
+Underfull \hbox (badness 2285) in paragraph at lines 880--881
+[]\T1/phv/b/n/10.95 Protección Contra Sobrecarga: \T1/phv/m/n/10.95 Se implemen
+tará un disyuntor que será el
+ []
+
+
+Underfull \hbox (badness 1048) in paragraph at lines 883--884
+\T1/phv/m/n/10.95 un aislamiento seguro de conductores y equipos, evitando desc
+argas y arcos
+ []
+
+<figures/4-diag-electrico.png, id=2256, 527.72156pt x 371.88937pt>
+File: figures/4-diag-electrico.png Graphic file (type png)
+<use figures/4-diag-electrico.png>
+Package pdftex.def Info: figures/4-diag-electrico.png  used on input line 893.
+(pdftex.def)             Requested size: 308.71106pt x 217.55156pt.
+
+
+[108 <./figures/4-diag-electrico.png>]) (cap5.tex
+
+[109]
+<figures/FinalDesigner.png, id=2269, 1027.84pt x 1027.84pt>
+File: figures/FinalDesigner.png Graphic file (type png)
+<use figures/FinalDesigner.png>
+Package pdftex.def Info: figures/FinalDesigner.png  used on input line 16.
+(pdftex.def)             Requested size: 441.01773pt x 441.02158pt.
+
+Overfull \hbox (72.23544pt too wide) in paragraph at lines 23--24
+ [][] 
+ []
+
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.24  \end{titlepage}
+                      [1
+
+ <./figures/FinalDesigner.png>]
+
+[111]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 61.
+
+
+
+[112]
+Underfull \hbox (badness 1577) in paragraph at lines 88--89
+[]\T1/phv/m/n/10.95 El análisis a continuación presenta las características y v
+entajas de las unidades
+ []
+
+
+Overfull \hbox (16.1256pt too wide) in paragraph at lines 98--109
+ [] 
+ []
+
+
+
+[113]
+Underfull \hbox (badness 1917) in paragraph at lines 116--117
+[]\T1/phv/b/n/10.95 CH161L6B 1/4HP \T1/phv/m/n/10.95 Aunque es silenciosa y de 
+fácil uso, no cumple con los
+ []
+
+<figures/condensador.png, id=2291, 875.52094pt x 834.11626pt>
+File: figures/condensador.png Graphic file (type png)
+<use figures/condensador.png>
+Package pdftex.def Info: figures/condensador.png  used on input line 131.
+(pdftex.def)             Requested size: 198.45662pt x 189.06808pt.
+
+
+[114]
+
+[115 <./figures/condensador.png>]
+<figures/evaporador.png, id=2306, 660.21657pt x 440.39531pt>
+File: figures/evaporador.png Graphic file (type png)
+<use figures/evaporador.png>
+Package pdftex.def Info: figures/evaporador.png  used on input line 180.
+(pdftex.def)             Requested size: 264.61333pt x 176.51115pt.
+
+
+[116]
+Overfull \hbox (17.16093pt too wide) in paragraph at lines 194--205
+ [] 
+ []
+
+
+
+[117 <./figures/evaporador.png>]
+<figures/motorelectrico.png, id=2322, 903.375pt x 902.6222pt>
+File: figures/motorelectrico.png Graphic file (type png)
+<use figures/motorelectrico.png>
+Package pdftex.def Info: figures/motorelectrico.png  used on input line 225.
+(pdftex.def)             Requested size: 220.50887pt x 220.32489pt.
+
+
+[118 <./figures/motorelectrico.png>]
+Overfull \hbox (18.53242pt too wide) in paragraph at lines 260--261
+[][] 
+ []
+
+
+
+[119]
+Underfull \hbox (badness 3815) in paragraph at lines 272--273
+[]\T1/phv/m/n/10.95 Permiten tomar decisiones informadas sobre la asignación de
+ recursos, la
+ []
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 276.
+
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 276.
+
+
+
+[120]
+<figures/mecanicos.png, id=2344, 660.21657pt x 222.07968pt>
+File: figures/mecanicos.png Graphic file (type png)
+<use figures/mecanicos.png>
+Package pdftex.def Info: figures/mecanicos.png  used on input line 291.
+(pdftex.def)             Requested size: 264.61333pt x 89.00989pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--304
+
+ []
+
+
+
+[121 <./figures/mecanicos.png>]
+
+[122]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 360.
+
+
+
+[123]
+
+[124]
+Underfull \hbox (badness 3646) in paragraph at lines 453--454
+[]\T1/phv/m/n/10.95 Realizar inspecciones periódicas para verificar el estado d
+e todos los
+ []
+
+
+
+[125]
+Underfull \hbox (badness 10000) in paragraph at lines 478--479
+[]\T1/phv/m/n/10.95 Asegurarse de cerrar correctamente las puertas y evitar abr
+irlas
+ []
+
+
+
+[126]) (glosario.tex
+
+[127]
+
+[128
+
+]) (IsraelMonjarazR_proyectoI.bbl
+
+[129]
+Underfull \hbox (badness 10000) in paragraph at lines 179--192
+\T1/lmtt/m/n/10.95 www [] .josebernad [] .com / historia [] -de [] -la [] -refr
+igeracion [] -de [] -la [] -prehistoria [] -a [] -la []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--216
+[]\T1/phv/m/n/10.95 bibliocad.  (s.f.[]).   \T1/phv/m/sl/10.95 Evaporador en 3d
+. en AutoCAD | Bibliocad.
+ []
+
+
+Underfull \hbox (badness 2951) in paragraph at lines 277--290
+\T1/phv/m/sl/10.95 7th Edition\T1/phv/m/n/10.95 .  https://www.mybooklibrary.co
+m/pdf/thermodynamics-an-engineering-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--336
+[]\T1/phv/m/n/10.95 Bruno.  (2024, 1).  \T1/phv/m/sl/10.95 Cálculo de cargas té
+rmicas de climatización.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--336
+\T1/phv/m/n/10.95 https://www.ingenierosindustriales.com/calculo-de-cargas-term
+icas-de-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 378--392
+[]\T1/phv/m/n/10.95 Caloryfrio, M. I.  (2018, 11).  \T1/phv/m/sl/10.95 Efectos 
+de los reglamentos F-gas y de
+ []
+
+
+Underfull \hbox (badness 5985) in paragraph at lines 378--392
+\T1/phv/m/sl/10.95 ecodiseño en la fabricación de equipos y centrales frigorífi
+cas de HFC.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 378--392
+\T1/phv/m/n/10.95 https://www.caloryfrio.com/refrigeracion-frio/efectos-reglame
+ntos-f-gas-ecodiseno-
+ []
+
+
+
+[130
+
+]
+Underfull \hbox (badness 3769) in paragraph at lines 544--556
+[]\T1/phv/m/n/10.95 CIMA Agencia Española, M. Y. P. S.  (2015, 2).  \T1/phv/m/s
+l/10.95 CIMA: FICHA TECNICA
+ []
+
+
+Underfull \hbox (badness 2635) in paragraph at lines 707--722
+\T1/phv/m/sl/10.95 internacionales, mercado y especialización | Data México.  \
+T1/phv/m/n/10.95 Descargado de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 707--722
+[]$\T1/lmtt/m/n/10.95 https :// www [] .economia [] .gob [] .mx / datamexico / 
+es / profile / product / their [] -insulin []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 734--748
+\T1/phv/m/sl/10.95 registradas (edr).  []$\T1/lmtt/m/n/10.95 https :// www [] .
+inegi [] .org [] .mx / contenidos / saladeprensa /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 760--773
+\T1/phv/m/n/10.95 de []$\T1/lmtt/m/n/10.95 https :// www [] .edificacionescien 
+[] .com / es / blog [] -cien [] -3 / 33 [] -construccion [] -y []
+ []
+
+
+Underfull \hbox (badness 6157) in paragraph at lines 785--800
+[]\T1/phv/m/n/10.95 Depot, H.  (2024).  \T1/phv/m/sl/10.95 Sista espuma expansi
+va de poliuretano universal 750
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 785--800
+\T1/phv/m/sl/10.95 ml.  \T1/phv/m/n/10.95 Descargado de []$\T1/lmtt/m/n/10.95 h
+ttps :// www [] .homedepot [] .com [] .mx / p / sista [] -espuma []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 785--800
+\T1/lmtt/m/n/10.95 -expansiva [] -de [] -poliuretano [] -universal [] -750 [] -
+ml [] -2546755 [] -724369 [] ?srsltid =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 812--823
+[]\T1/phv/m/n/10.95 De Salud, S.  (2022, 8).  \T1/phv/m/sl/10.95 Normas oficial
+es mexicanas.
+ []
+
+
+
+[131]
+Underfull \hbox (badness 10000) in paragraph at lines 1031--1044
+[]\T1/phv/m/n/10.95 Farmacias San Pablo, F.  (2024).  \T1/phv/m/sl/10.95 Insuli
+na humalog lispro.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1031--1044
+\T1/phv/m/n/10.95 https://www.farmaciasanpablo.com.mx/medicamentos/supervision-
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1031--1044
+\T1/phv/m/n/10.95 medica/g---h---i/humalog-insulina-lispro-suspension-inyectabl
+e-10-ml-frasco-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1081--1097
+\T1/phv/m/n/10.95 Descargado de []$\T1/lmtt/m/n/10.95 http :// www [] .mscbs []
+ .es / en / biblioPublic / publicaciones / docs /
+ []
+
+
+Underfull \hbox (badness 6725) in paragraph at lines 1109--1126
+[]\T1/phv/m/n/10.95 Grupo CIAT.  (2011, diciembre).  \T1/phv/m/sl/10.95 El grup
+o CIAT refuerza su compromiso
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 1109--1126
+\T1/phv/m/sl/10.95 medioambiental implementando el ecodiseño en sus sistemas de
+ climatización
+ []
+
+
+Underfull \hbox (badness 4699) in paragraph at lines 1109--1126
+\T1/phv/m/sl/10.95 y refrigeración.  \T1/phv/m/n/10.95 https://www.construible.
+es/2011/12/20/el-grupo-ciat-refuerza-su-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1138--1153
+[]$\T1/lmtt/m/n/10.95 https :// www [] .healthcentral [] .com / slideshow / beg
+inners [] -guide [] -taking [] -insulin$[]
+ []
+
+
+Underfull \hbox (badness 6691) in paragraph at lines 1234--1246
+[]\T1/phv/m/n/10.95 Hogartecnocasa.  (2016, 12).  \T1/phv/m/sl/10.95 Diseño mod
+erno y flexible en refrigeración.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1234--1246
+\T1/phv/m/n/10.95 https://hogartecnocasa.wordpress.com/2016/12/24/diseno-modern
+o-flexible-en-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1285--1297
+[]\T1/phv/m/n/10.95 HVAC.  (2016, 5).  \T1/phv/m/sl/10.95 Criterios de selecció
+n para centrales frigoríficas.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1285--1297
+\T1/phv/m/n/10.95 https://www.mundohvacr.com/2012/05/criterios-de-seleccion-par
+a-centrales-
+ []
+
+
+
+[132]
+Underfull \hbox (badness 10000) in paragraph at lines 1334--1345
+[]\T1/phv/m/n/10.95 Intarcon.  (s.f.[]).  \T1/phv/m/sl/10.95 TECFRINOR - Calcul
+adora frigorífica.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1357--1369
+\T1/phv/m/n/10.95 https://www.intarcon.com/ecodiseno-unidades-condensadoras-y-e
+nfriadoras-de-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1563--1576
+[]$\T1/lmtt/m/n/10.95 https :// servicio [] .mabeglobal [] .com / es [] []MX / 
+Refrigeraci % C3 % B3n [] -Refacciones /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1563--1576
+\T1/lmtt/m/n/10.95 Refrigeradores [] -Refacciones / Evaporador [] -Refrigerador
+ [] -Ensamble [] - [] - []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1642--1655
+[]\T1/phv/m/n/10.95 Marrelli, S.  (2011).  \T1/phv/m/sl/10.95 Educación tecnoló
+gica: necesidades.
+ []
+
+
+
+[133]
+LaTeX Font Info:    Font shape `TS1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `TS1/phv/m/sl' tried instead on input line 1821.
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 2048--2062
+[]\T1/phv/m/n/10.95 Technology, H.  (s.f.).  \T1/phv/m/sl/10.95 Refrigerador co
+n revestimiento de hielo (vertical) [Imagen].
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2048--2062
+[]$\T1/lmtt/m/n/10.95 https :// es [] .haiermedical [] .com / vaccine [] -refri
+gerator [] -freezer / ice [] -lined []
+ []
+
+
+Underfull \hbox (badness 2980) in paragraph at lines 2074--2085
+[]\T1/phv/m/n/10.95 Theoms.  (2023, 6).  \T1/phv/m/sl/10.95 Un poco de teoría: 
+Etapas del Ciclo de Refrigeración.
+ []
+
+
+
+[134]
+Underfull \hbox (badness 1728) in paragraph at lines 2179--2196
+[]\T1/phv/m/n/10.95 Vidyaputra.  (s.f.[]).  \T1/phv/m/sl/10.95 40 lecciones sob
+re refrigeración y aire acondicionado del iit
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 2179--2196
+\T1/phv/m/sl/10.95 kharagpur. material didáctico para los estudiantes o como re
+ferencia para los
+ []
+
+
+Underfull \hbox (badness 1902) in paragraph at lines 2208--2222
+[]\T1/phv/m/n/10.95 Área tecnologia.  (2016).  \T1/phv/m/sl/10.95 El interrupto
+r magnetotérmico. funcionamiento, curvas,
+ []
+
+) (anexos.tex
+
+[135]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 6.
+
+<pdfs/vista-explosionada.pdf, id=2513, 1195.01462pt x 845.0471pt>
+File: pdfs/vista-explosionada.pdf Graphic file (type pdf)
+<use pdfs/vista-explosionada.pdf>
+Package pdftex.def Info: pdfs/vista-explosionada.pdf  used on input line 15.
+(pdftex.def)             Requested size: 1195.0117pt x 845.04504pt.
+File: pdfs/vista-explosionada.pdf Graphic file (type pdf)
+<use pdfs/vista-explosionada.pdf>
+Package pdftex.def Info: pdfs/vista-explosionada.pdf  used on input line 15.
+(pdftex.def)             Requested size: 1195.0117pt x 845.04504pt.
+<pdfs/vista-explosionada.pdf, id=2516, page=1, 1195.01462pt x 845.0471pt>
+File: pdfs/vista-explosionada.pdf Graphic file (type pdf)
+<use pdfs/vista-explosionada.pdf, page 1>
+Package pdftex.def Info: pdfs/vista-explosionada.pdf , page1 used on input line
+ 15.
+(pdftex.def)             Requested size: 1195.0117pt x 845.04504pt.
+File: pdfs/vista-explosionada.pdf Graphic file (type pdf)
+<use pdfs/vista-explosionada.pdf, page 1>
+Package pdftex.def Info: pdfs/vista-explosionada.pdf , page1 used on input line
+ 15.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+File: pdfs/vista-explosionada.pdf Graphic file (type pdf)
+<use pdfs/vista-explosionada.pdf, page 1>
+Package pdftex.def Info: pdfs/vista-explosionada.pdf , page1 used on input line
+ 15.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+File: pdfs/vista-explosionada.pdf Graphic file (type pdf)
+<use pdfs/vista-explosionada.pdf, page 1>
+Package pdftex.def Info: pdfs/vista-explosionada.pdf , page1 used on input line
+ 15.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+
+
+File: pdfs/vista-explosionada.pdf Graphic file (type pdf)
+<use pdfs/vista-explosionada.pdf, page 1>
+Package pdftex.def Info: pdfs/vista-explosionada.pdf , page1 used on input line
+ 19.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+[136
+
+
+ <./pdfs/vista-explosionada.pdf>]
+<pdfs/vistas-camara.pdf, id=2540, 1195.01462pt x 845.0471pt>
+File: pdfs/vistas-camara.pdf Graphic file (type pdf)
+<use pdfs/vistas-camara.pdf>
+Package pdftex.def Info: pdfs/vistas-camara.pdf  used on input line 24.
+(pdftex.def)             Requested size: 1195.0117pt x 845.04504pt.
+File: pdfs/vistas-camara.pdf Graphic file (type pdf)
+<use pdfs/vistas-camara.pdf>
+Package pdftex.def Info: pdfs/vistas-camara.pdf  used on input line 24.
+(pdftex.def)             Requested size: 1195.0117pt x 845.04504pt.
+<pdfs/vistas-camara.pdf, id=2543, page=1, 1195.01462pt x 845.0471pt>
+File: pdfs/vistas-camara.pdf Graphic file (type pdf)
+<use pdfs/vistas-camara.pdf, page 1>
+Package pdftex.def Info: pdfs/vistas-camara.pdf , page1 used on input line 24.
+(pdftex.def)             Requested size: 1195.0117pt x 845.04504pt.
+File: pdfs/vistas-camara.pdf Graphic file (type pdf)
+<use pdfs/vistas-camara.pdf, page 1>
+Package pdftex.def Info: pdfs/vistas-camara.pdf , page1 used on input line 24.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+File: pdfs/vistas-camara.pdf Graphic file (type pdf)
+<use pdfs/vistas-camara.pdf, page 1>
+Package pdftex.def Info: pdfs/vistas-camara.pdf , page1 used on input line 24.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+File: pdfs/vistas-camara.pdf Graphic file (type pdf)
+<use pdfs/vistas-camara.pdf, page 1>
+Package pdftex.def Info: pdfs/vistas-camara.pdf , page1 used on input line 24.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+
+
+File: pdfs/vistas-camara.pdf Graphic file (type pdf)
+<use pdfs/vistas-camara.pdf, page 1>
+Package pdftex.def Info: pdfs/vistas-camara.pdf , page1 used on input line 29.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+[137
+
+ <./pdfs/vistas-camara.pdf>]
+<pdfs/plano-electrico.pdf, id=2567, 1195.01462pt x 845.0471pt>
+File: pdfs/plano-electrico.pdf Graphic file (type pdf)
+<use pdfs/plano-electrico.pdf>
+Package pdftex.def Info: pdfs/plano-electrico.pdf  used on input line 34.
+(pdftex.def)             Requested size: 1195.0117pt x 845.04504pt.
+File: pdfs/plano-electrico.pdf Graphic file (type pdf)
+<use pdfs/plano-electrico.pdf>
+Package pdftex.def Info: pdfs/plano-electrico.pdf  used on input line 34.
+(pdftex.def)             Requested size: 1195.0117pt x 845.04504pt.
+<pdfs/plano-electrico.pdf, id=2570, page=1, 1195.01462pt x 845.0471pt>
+File: pdfs/plano-electrico.pdf Graphic file (type pdf)
+<use pdfs/plano-electrico.pdf, page 1>
+Package pdftex.def Info: pdfs/plano-electrico.pdf , page1 used on input line 34
+.
+(pdftex.def)             Requested size: 1195.0117pt x 845.04504pt.
+File: pdfs/plano-electrico.pdf Graphic file (type pdf)
+<use pdfs/plano-electrico.pdf, page 1>
+Package pdftex.def Info: pdfs/plano-electrico.pdf , page1 used on input line 34
+.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+File: pdfs/plano-electrico.pdf Graphic file (type pdf)
+<use pdfs/plano-electrico.pdf, page 1>
+Package pdftex.def Info: pdfs/plano-electrico.pdf , page1 used on input line 34
+.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+File: pdfs/plano-electrico.pdf Graphic file (type pdf)
+<use pdfs/plano-electrico.pdf, page 1>
+Package pdftex.def Info: pdfs/plano-electrico.pdf , page1 used on input line 34
+.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+
+
+File: pdfs/plano-electrico.pdf Graphic file (type pdf)
+<use pdfs/plano-electrico.pdf, page 1>
+Package pdftex.def Info: pdfs/plano-electrico.pdf , page1 used on input line 44
+.
+(pdftex.def)             Requested size: 896.25877pt x 633.78378pt.
+[138
+
+ <./pdfs/plano-electrico.pdf>]
+<bohn-perecederos.pdf, id=2593, 608.2725pt x 790.955pt>
+File: bohn-perecederos.pdf Graphic file (type pdf)
+<use bohn-perecederos.pdf>
+Package pdftex.def Info: bohn-perecederos.pdf  used on input line 51.
+(pdftex.def)             Requested size: 608.27103pt x 790.95308pt.
+File: bohn-perecederos.pdf Graphic file (type pdf)
+<use bohn-perecederos.pdf>
+Package pdftex.def Info: bohn-perecederos.pdf  used on input line 51.
+(pdftex.def)             Requested size: 608.27103pt x 790.95308pt.
+<bohn-perecederos.pdf, id=2596, page=1, 608.2725pt x 790.955pt>
+File: bohn-perecederos.pdf Graphic file (type pdf)
+<use bohn-perecederos.pdf, page 1>
+Package pdftex.def Info: bohn-perecederos.pdf , page1 used on input line 51.
+(pdftex.def)             Requested size: 608.27103pt x 790.95308pt.
+File: bohn-perecederos.pdf Graphic file (type pdf)
+<use bohn-perecederos.pdf, page 1>
+Package pdftex.def Info: bohn-perecederos.pdf , page1 used on input line 51.
+(pdftex.def)             Requested size: 486.61867pt x 632.76486pt.
+File: bohn-perecederos.pdf Graphic file (type pdf)
+<use bohn-perecederos.pdf, page 1>
+Package pdftex.def Info: bohn-perecederos.pdf , page1 used on input line 51.
+(pdftex.def)             Requested size: 486.61867pt x 632.76486pt.
+File: bohn-perecederos.pdf Graphic file (type pdf)
+<use bohn-perecederos.pdf, page 1>
+Package pdftex.def Info: bohn-perecederos.pdf , page1 used on input line 51.
+(pdftex.def)             Requested size: 486.61867pt x 632.76486pt.
+
+
+File: bohn-perecederos.pdf Graphic file (type pdf)
+<use bohn-perecederos.pdf, page 1>
+Package pdftex.def Info: bohn-perecederos.pdf , page1 used on input line 57.
+(pdftex.def)             Requested size: 486.61867pt x 632.76486pt.
+[139
+
+ <./bohn-perecederos.pdf>]
+File: bohn-perecederos.pdf Graphic file (type pdf)
+<use bohn-perecederos.pdf>
+Package pdftex.def Info: bohn-perecederos.pdf  used on input line 61.
+(pdftex.def)             Requested size: 608.27103pt x 790.95308pt.
+File: bohn-perecederos.pdf Graphic file (type pdf)
+<use bohn-perecederos.pdf>
+Package pdftex.def Info: bohn-perecederos.pdf  used on input line 61.
+(pdftex.def)             Requested size: 608.27103pt x 790.95308pt.
+<bohn-perecederos.pdf, id=2608, page=2, 608.2725pt x 790.955pt>
+File: bohn-perecederos.pdf Graphic file (type pdf)
+<use bohn-perecederos.pdf, page 2>
+Package pdftex.def Info: bohn-perecederos.pdf , page2 used on input line 61.
+(pdftex.def)             Requested size: 608.27103pt x 790.95308pt.
+File: bohn-perecederos.pdf Graphic file (type pdf)
+<use bohn-perecederos.pdf, page 2>
+Package pdftex.def Info: bohn-perecederos.pdf , page2 used on input line 61.
+(pdftex.def)             Requested size: 547.4402pt x 711.85294pt.
+File: bohn-perecederos.pdf Graphic file (type pdf)
+<use bohn-perecederos.pdf, page 2>
+Package pdftex.def Info: bohn-perecederos.pdf , page2 used on input line 61.
+(pdftex.def)             Requested size: 547.4402pt x 711.85294pt.
+File: bohn-perecederos.pdf Graphic file (type pdf)
+<use bohn-perecederos.pdf, page 2>
+Package pdftex.def Info: bohn-perecederos.pdf , page2 used on input line 61.
+(pdftex.def)             Requested size: 547.4402pt x 711.85294pt.
+
+
+File: bohn-perecederos.pdf Graphic file (type pdf)
+<use bohn-perecederos.pdf, page 2>
+Package pdftex.def Info: bohn-perecederos.pdf , page2 used on input line 65.
+(pdftex.def)             Requested size: 547.4402pt x 711.85294pt.
+[140
+
+ <./bohn-perecederos.pdf>]
+<figures/axo-parrilasycharolas.png, id=2614, 417.81094pt x 371.88937pt>
+File: figures/axo-parrilasycharolas.png Graphic file (type png)
+<use figures/axo-parrilasycharolas.png>
+Package pdftex.def Info: figures/axo-parrilasycharolas.png  used on input line 
+72.
+(pdftex.def)             Requested size: 183.0194pt x 162.90547pt.
+<figures/axo-parrilasycharolas2.png, id=2615, 411.03563pt x 339.51843pt>
+File: figures/axo-parrilasycharolas2.png Graphic file (type png)
+<use figures/axo-parrilasycharolas2.png>
+Package pdftex.def Info: figures/axo-parrilasycharolas2.png  used on input line
+ 72.
+(pdftex.def)             Requested size: 183.0194pt x 151.17587pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./figures/planos.pdf): PDF inclusion: found 
+PDF version <1.7>, but at most version <1.5> allowed
+<figures/planos.pdf, id=2616, 614.295pt x 794.97pt>
+File: figures/planos.pdf Graphic file (type pdf)
+<use figures/planos.pdf>
+Package pdftex.def Info: figures/planos.pdf  used on input line 79.
+(pdftex.def)             Requested size: 308.71106pt x 399.50978pt.
+<figures/condensador-bohn.pdf, id=2617, 614.295pt x 794.97pt>
+File: figures/condensador-bohn.pdf Graphic file (type pdf)
+<use figures/condensador-bohn.pdf>
+Package pdftex.def Info: figures/condensador-bohn.pdf  used on input line 86.
+(pdftex.def)             Requested size: 352.81552pt x 456.5826pt.
+
+
+[141 <./figures/axo-parrilasycharolas.png (PNG copy)> <./figures/axo-parrilasyc
+harolas2.png (PNG copy)> <./figures/planos.pdf>])
+
+[142 <./figures/condensador-bohn.pdf>] (IsraelMonjarazR_proyectoI.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+)
+ ***********
+LaTeX2e <2024-11-01>
+L3 programming layer <2024-11-02>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+Package rerunfilecheck Info: File `IsraelMonjarazR_proyectoI.out' has not chang
+ed.
+(rerunfilecheck)             Checksum: 93D72CAC47DF6A834B63E2C6CEF12A74;36239.
+ ) 
+Here is how much of TeX's memory you used:
+ 49830 strings out of 475616
+ 1148069 string characters out of 5770369
+ 1600120 words of memory out of 5000000
+ 71202 multiletter control sequences out of 15000+600000
+ 645599 words of font info for 115 fonts, out of 8000000 for 9000
+ 0 hyphenation exceptions out of 8191
+ 93i,20n,95p,1332b,1515s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{Hfootnote.10} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{figura-2-15} has been referenced but does not exist
+, replaced by a fixed one
+
+<C:/Users/ibrr9/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/lm/lmbx10.pfb><C:
+/Users/ibrr9/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Us
+ers/ibrr9/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/lm/lmex10.pfb><C:/Users
+/ibrr9/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/lm/lmmi10.pfb><C:/Users/ib
+rr9/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/lm/lmmi6.pfb><C:/Users/ibrr9/
+AppData/Roaming/MiKTeX/2.9/fonts/type1/public/lm/lmmi8.pfb><C:/Users/ibrr9/AppD
+ata/Roaming/MiKTeX/2.9/fonts/type1/public/lm/lmr10.pfb><C:/Users/ibrr9/AppData/
+Roaming/MiKTeX/2.9/fonts/type1/public/lm/lmr6.pfb><C:/Users/ibrr9/AppData/Roami
+ng/MiKTeX/2.9/fonts/type1/public/lm/lmr8.pfb><C:/Users/ibrr9/AppData/Roaming/Mi
+KTeX/2.9/fonts/type1/public/lm/lmri10.pfb><C:/Users/ibrr9/AppData/Roaming/MiKTe
+X/2.9/fonts/type1/public/lm/lmri12.pfb><C:/Users/ibrr9/AppData/Roaming/MiKTeX/2
+.9/fonts/type1/public/lm/lmsy10.pfb><C:/Users/ibrr9/AppData/Roaming/MiKTeX/2.9/
+fonts/type1/public/lm/lmsy6.pfb><C:/Users/ibrr9/AppData/Roaming/MiKTeX/2.9/font
+s/type1/public/lm/lmsy8.pfb><C:/Users/ibrr9/AppData/Roaming/MiKTeX/2.9/fonts/ty
+pe1/public/lm/lmtt10.pfb><C:/Users/ibrr9/AppData/Roaming/MiKTeX/2.9/fonts/type1
+/public/amsfonts/symbols/msam10.pfb><C:/Users/ibrr9/AppData/Roaming/MiKTeX/2.9/
+fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/ibrr9/AppData/Roaming/MiKTeX/2.9/
+fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Users/ibrr9/AppData/Roaming/MiKTeX/2.9
+/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/ibrr9/AppData/Roaming/MiKTeX/2.9
+/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on IsraelMonjarazR_proyectoI.pdf (147 pages, 30716383 bytes).
+PDF statistics:
+ 2906 PDF objects out of 2984 (max. 8388607)
+ 632 named destinations out of 1000 (max. 500000)
+ 1915 words of extra memory for PDF output out of 10000 (max. 10000000)
+

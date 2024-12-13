@@ -14,52 +14,53 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: referencias.bib
-Repeated entry---line 890 of file referencias.bib
- : @misc{iso_org-2024
- :                   ,
+I was expecting a `,' or a `}'---line 920 of file referencias.bib
+ :  
+ :  year = {2024}
+(Error may have been on previous line)
 I'm skipping whatever remains of this entry
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
 Warning--No journal in agustin
 Warning--`others' not consistent with 6th ed. of the APA Manual
-You've used 83 entries,
+You've used 88 entries,
             6951 wiz_defined-function locations,
-            1699 strings with 23635 characters,
-and the built_in function-call counts, 136543 in all, are:
-= -- 16793
-> -- 957
-< -- 6636
-+ -- 6033
-- -- 233
-* -- 8210
-:= -- 25486
-add.period$ -- 378
-call.type$ -- 83
-change.case$ -- 1452
+            1718 strings with 24395 characters,
+and the built_in function-call counts, 143342 in all, are:
+= -- 17624
+> -- 1007
+< -- 6924
++ -- 6270
+- -- 251
+* -- 8578
+:= -- 26681
+add.period$ -- 398
+call.type$ -- 88
+change.case$ -- 1522
 chr.to.int$ -- 0
-cite$ -- 167
-duplicate$ -- 3126
-empty$ -- 5817
-format.name$ -- 1439
-if$ -- 26450
+cite$ -- 177
+duplicate$ -- 3281
+empty$ -- 6158
+format.name$ -- 1509
+if$ -- 27838
 int.to.chr$ -- 0
-int.to.str$ -- 253
+int.to.str$ -- 268
 missing$ -- 0
-newline$ -- 1963
-num.names$ -- 648
-pop$ -- 4946
+newline$ -- 2075
+num.names$ -- 688
+pop$ -- 5288
 preamble$ -- 1
-purify$ -- 416
+purify$ -- 434
 quote$ -- 0
-skip$ -- 7091
+skip$ -- 7435
 stack$ -- 0
-substring$ -- 6501
-swap$ -- 1522
-text.length$ -- 293
+substring$ -- 6755
+swap$ -- 1591
+text.length$ -- 306
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 6816
+type$ -- 7216
 warning$ -- 2
-while$ -- 589
+while$ -- 613
 width$ -- 0
-write$ -- 2241
+write$ -- 2363
 (There was 1 error message)

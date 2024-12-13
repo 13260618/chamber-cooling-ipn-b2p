@@ -1,26 +1,29 @@
 
 %\pagenumbering{roman}
 
-	\pagenumbering{roman}
+\pagenumbering{roman}
 
 \tableofcontents
+\newpage
 \listoftables
+\newpage
 \listoffigures 
+% \newpage
+%\section*{Índice de Ecuaciones}
  
-\section*{Índice de Ecuaciones}
+% \addcontentsline{toc}{chapter}{Índice de Ecuaciones}  
  
- \addcontentsline{toc}{chapter}{Índice de Ecuaciones}  % Agregar la sección al índice general
  
- % Listar todas las ecuaciones en este índice, incluyendo el número de página con \pageref
- \begin{enumerate}
- 	\item Ecuación \ref{eq:Calor-de-enfriamiento}: Calor de enfriamiento \dotfill \pageref{eq:Calor-de-enfriamiento}
- 	\item Ecuación \ref{eq:energia_especifica}: Energía específica de un cuerpo \dotfill \pageref{eq:energia_especifica}
- 	\item Ecuación \ref{eq:carga_iluminacion_descarga}: Carga térmica por iluminación \dotfill \pageref{eq:carga_iluminacion_descarga}
- \end{enumerate}
 
+%\begin{enumerate}
+%	\item Ecuación \ref{eq:carga_transmision_opacos}: Carga térmica por transmisión a través de cerramientos opacos \dotfill \pageref{eq:carga_transmision_opacos}
+%	\item Ecuación \ref{eq:carga_transmision_traslucidos}: Carga térmica por transmisión a través de cerramientos traslúcidos \dotfill \pageref{eq:carga_transmision_traslucidos}
+%	\item Ecuación \ref{eq:carga_radiacion_solar}: Carga térmica por radiación solar \dotfill \pageref{eq:carga_radiacion_solar}
+%	\item Ecuación \ref{eq:carga_ventilacion_infiltracion}: Carga térmica por ventilación o infiltración \dotfill \pageref{eq:carga_ventilacion_infiltracion}
+%\end{enumerate}
 
 \newpage
-
+\pagenumbering{arabic}
 
 \section*{Planteamiento del problema}
 \addcontentsline{toc}{chapter}{Planteamiento del problema}

@@ -1,15 +1,14 @@
 \babel@toc {spanish}{}\relax 
 \contentsline {chapter}{\'{I}ndice general}{\es@scroman {i}}{section*.1}%
-\contentsline {chapter}{\'{I}ndice de cuadros}{\es@scroman {v}}{section*.2}%
-\contentsline {chapter}{\'{I}ndice de figuras}{\es@scroman {vi}}{section*.3}%
-\contentsline {chapter}{Índice de Ecuaciones}{\es@scroman {vii}}{section*.3}%
-\contentsline {chapter}{Planteamiento del problema}{\es@scroman {viii}}{Item.3}%
-\contentsline {chapter}{Objetivo general}{\es@scroman {ix}}{Item.3}%
-\contentsline {section}{Objetivos específicos}{\es@scroman {ix}}{section*.4}%
-\contentsline {chapter}{Delimitación}{\es@scroman {x}}{section*.4}%
-\contentsline {chapter}{Justificación}{\es@scroman {xi}}{section*.4}%
-\contentsline {section}{Justificación social}{\es@scroman {xi}}{section*.5}%
-\contentsline {section}{Beneficios esperados}{\es@scroman {xii}}{section*.5}%
+\contentsline {chapter}{\'{I}ndice de cuadros}{\es@scroman {vi}}{section*.2}%
+\contentsline {chapter}{\'{I}ndice de figuras}{\es@scroman {viii}}{section*.3}%
+\contentsline {chapter}{Planteamiento del problema}{1}{section*.3}%
+\contentsline {chapter}{Objetivo general}{2}{section*.3}%
+\contentsline {section}{Objetivos específicos}{2}{section*.4}%
+\contentsline {chapter}{Delimitación}{3}{section*.4}%
+\contentsline {chapter}{Justificación}{4}{section*.4}%
+\contentsline {section}{Justificación social}{4}{section*.5}%
+\contentsline {section}{Beneficios esperados}{5}{section*.5}%
 \contentsline {chapter}{CAPÍTULO I. Generalidades del diseño térmico y cámaras de refrigeración de insulina \hfill 12}{}{}
 \contentsline {section}{{Introducción}}{13}{section*.5}%
 \contentsline {section}{\numberline {1.1}Las cámaras de refrigeración a través de la historia}{14}{section.1.1}%
@@ -23,8 +22,22 @@
 \contentsline {subsection}{\numberline {1.3.2}Preservación de la insulina}{18}{subsection.1.3.2}%
 \contentsline {subsection}{\numberline {1.3.3}Refrigeración de la insulina. }{18}{subsection.1.3.3}%
 \contentsline {subsection}{\numberline {1.3.4}Avances tecnológicos en la refrigeración de la insulina}{19}{subsection.1.3.4}%
+\contentsline {chapter}{CAPÍTULO II. Contexto del proyecto \hfill 20}{}{}
+\contentsline {section}{{Introducción}}{21}{figure.caption.9}%
+\contentsline {section}{\numberline {2.1}Contexto tecnológico}{22}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Cámaras frigoríficas comerciales}{22}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Tipos de cámaras frigoríficas usados en farmacéutica}{23}{subsection.2.1.2}%
+\contentsline {section}{\numberline {2.2}Contexto normativo}{25}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Normas Oficiales Mexicanas (NOM)}{25}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Sociedad Americana de Ingenieros de Calefacción, Refrigeración y Aire Acondicionado (ASHRAE)}{27}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Normas ISO}{27}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}Contexto geográfico}{28}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Ubicación geográfica}{28}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Variables climáticas de la región}{29}{subsection.2.3.2}%
+\contentsline {section}{\numberline {2.4}Contexto del producto}{31}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Almacenamiento de la insulina}{31}{subsection.2.4.1}%
 \contentsline {chapter}{CAPÍTULO III. Meta diseño \hfill 34}{}{}
-\contentsline {section}{Introducción}{35}{figure.caption.9}%
+\contentsline {section}{Introducción}{35}{table.caption.21}%
 \contentsline {section}{\numberline {3.1}Identificación y estructuración de la necesidad detectada}{37}{section.3.1}%
 \contentsline {subsection}{\numberline {3.1.1}Necesidad básica}{37}{subsection.3.1.1}%
 \contentsline {subsection}{\numberline {3.1.2}Metodología de identificación de la necesidad}{37}{subsection.3.1.2}%
@@ -33,22 +46,22 @@
 \contentsline {section}{\numberline {3.3}Marco teórico }{43}{section.3.3}%
 \contentsline {subsection}{\numberline {3.3.1}Carga del producto }{44}{subsection.3.3.1}%
 \contentsline {subsection}{\numberline {3.3.2}Cargas térmicas de climatización}{45}{subsection.3.3.2}%
-\contentsline {subsubsection}{Cargas sensibles}{45}{section*.16}%
+\contentsline {subsubsection}{Cargas sensibles}{45}{section*.28}%
 \contentsline {subsubsection}{Cargas latentes}{48}{equation.3.7}%
 \contentsline {section}{\numberline {3.4}Ecodiseño}{49}{section.3.4}%
 \contentsline {section}{\numberline {3.5}Restricciones técnicas internas y externas}{50}{section.3.5}%
 \contentsline {subsection}{\numberline {3.5.1}Factor de Seguridad}{50}{subsection.3.5.1}%
 \contentsline {subsection}{\numberline {3.5.2}Dimensionamiento y Aislamiento de la Cámara de Refrigeración}{51}{subsection.3.5.2}%
-\contentsline {subsubsection}{Cargas por conducción en paredes y techo}{52}{Item.29}%
-\contentsline {subsubsection}{Cargas por infiltración de aire }{53}{figure.caption.23}%
-\contentsline {subsubsection}{Cargas del producto a refrigerar}{55}{table.caption.24}%
+\contentsline {subsubsection}{Cargas por conducción en paredes y techo}{52}{Item.37}%
+\contentsline {subsubsection}{Cargas por infiltración de aire }{53}{figure.caption.35}%
+\contentsline {subsubsection}{Cargas del producto a refrigerar}{55}{table.caption.36}%
 \contentsline {subsection}{\numberline {3.5.3}Sistema de refrigeración}{55}{subsection.3.5.3}%
-\contentsline {subsubsection}{Selección del evaporador}{55}{section*.25}%
-\contentsline {subsubsection}{Selección de motor}{56}{figure.caption.27}%
-\contentsline {subsubsection}{Bases teóricas de la refrigeración.}{57}{table.caption.28}%
-\contentsline {subsubsection}{Energía.}{57}{table.caption.28}%
+\contentsline {subsubsection}{Selección del evaporador}{55}{section*.37}%
+\contentsline {subsubsection}{Selección de motor}{56}{figure.caption.39}%
+\contentsline {subsubsection}{Bases teóricas de la refrigeración.}{57}{table.caption.40}%
+\contentsline {subsubsection}{Energía.}{57}{table.caption.40}%
 \contentsline {subsubsection}{Primera ley de la termodinámica}{58}{equation.3.32}%
-\contentsline {subsubsection}{Segunda ley de la termodinámica}{60}{figure.caption.30}%
+\contentsline {subsubsection}{Segunda ley de la termodinámica}{60}{figure.caption.42}%
 \contentsline {subsubsection}{Formalismo de Refrigeración}{61}{equation.3.44}%
 \contentsline {subsection}{\numberline {3.5.4}Distribución del Aire}{62}{subsection.3.5.4}%
 \contentsline {subsection}{\numberline {3.5.5}Dimensionamiento de puerta}{63}{subsection.3.5.5}%
@@ -60,7 +73,7 @@
 \contentsline {section}{\numberline {3.7}Conceptualización De Sistema Artefactual (bosquejo general)}{65}{section.3.7}%
 \contentsline {subsection}{\numberline {3.7.1}Bosquejo general del sistema: cámara frigorífica}{66}{subsection.3.7.1}%
 \contentsline {subsection}{\numberline {3.7.2}Diagrama a bloques del proceso de trabajo}{66}{subsection.3.7.2}%
-\contentsline {subsubsection}{Diagrama de flujo}{67}{section*.34}%
+\contentsline {subsubsection}{Diagrama de flujo}{67}{section*.46}%
 \contentsline {subsection}{\numberline {3.7.3}Diagrama de funcionamiento general de sistema}{69}{subsection.3.7.3}%
 \contentsline {section}{\numberline {3.8}Listado de partes de los componentes del sistema}{70}{section.3.8}%
 \contentsline {section}{\numberline {3.9}Identificación del conjunto y/o subconjunto por área tecnológica}{71}{section.3.9}%
@@ -74,22 +87,22 @@
 \contentsline {section}{{Introducción}}{84}{section.3.15}%
 \contentsline {section}{\numberline {4.1}Marco referencial}{85}{section.4.1}%
 \contentsline {subsection}{\numberline {4.1.1}Normas ISO en planos de ingeniería}{85}{subsection.4.1.1}%
-\contentsline {subsubsection}{Norma ISO 5457 (Presentación de dibujos técnicos) }{85}{section*.53}%
-\contentsline {subsubsection}{Norma ISO 6433:2012 (Documentación técnica del producto)}{85}{section*.53}%
-\contentsline {subsubsection}{ISO 7573:2008 (Listas de piezas):}{86}{Item.57}%
+\contentsline {subsubsection}{Norma ISO 5457 (Presentación de dibujos técnicos) }{85}{section*.65}%
+\contentsline {subsubsection}{Norma ISO 6433:2012 (Documentación técnica del producto)}{85}{section*.65}%
+\contentsline {subsubsection}{ISO 7573:2008 (Listas de piezas):}{86}{Item.65}%
 \contentsline {section}{\numberline {4.2}Propuesta solución}{86}{section.4.2}%
-\contentsline {subsubsection}{Unidad de refrigeración}{87}{figure.caption.54}%
-\contentsline {subsubsection}{Evaporador}{88}{figure.caption.55}%
-\contentsline {subsubsection}{Serpentín del condensador}{89}{figure.caption.56}%
-\contentsline {subsubsection}{Compresor}{89}{figure.caption.57}%
-\contentsline {subsubsection}{Válvulas de expansión}{90}{figure.caption.58}%
+\contentsline {subsubsection}{Unidad de refrigeración}{87}{figure.caption.66}%
+\contentsline {subsubsection}{Evaporador}{88}{figure.caption.67}%
+\contentsline {subsubsection}{Serpentín del condensador}{89}{figure.caption.68}%
+\contentsline {subsubsection}{Compresor}{89}{figure.caption.69}%
+\contentsline {subsubsection}{Válvulas de expansión}{90}{figure.caption.70}%
 \contentsline {subsection}{\numberline {4.2.1}Esquema de bloques del funcionamiento del sistema}{91}{subsection.4.2.1}%
 \contentsline {section}{\numberline {4.3}Antecedentes}{92}{section.4.3}%
 \contentsline {subsection}{\numberline {4.3.1}Ubicación}{92}{subsection.4.3.1}%
 \contentsline {subsection}{\numberline {4.3.2}Tipo de producto}{92}{subsection.4.3.2}%
-\contentsline {subsubsection}{Condiciones del producto a refrigerar.}{93}{section*.62}%
+\contentsline {subsubsection}{Condiciones del producto a refrigerar.}{93}{section*.74}%
 \contentsline {subsection}{\numberline {4.3.3}Temperatura del diseño de almacenaje}{93}{subsection.4.3.3}%
-\contentsline {subsubsection}{Temperatura de almacenamiento de la Insulina}{93}{section*.64}%
+\contentsline {subsubsection}{Temperatura de almacenamiento de la Insulina}{93}{section*.76}%
 \contentsline {subsection}{\numberline {4.3.4}Tipo de empaque para su almacenaje}{93}{subsection.4.3.4}%
 \contentsline {subsection}{\numberline {4.3.5}Capacidad de almacenaje}{94}{subsection.4.3.5}%
 \contentsline {subsection}{\numberline {4.3.6}Flujo de recepción}{94}{subsection.4.3.6}%
@@ -101,9 +114,9 @@
 \contentsline {subsection}{\numberline {4.4.3}Coeficiente de película}{97}{subsection.4.4.3}%
 \contentsline {subsubsection}{Coeficiente de transferencia de calor}{97}{equation.4.52}%
 \contentsline {subsection}{\numberline {4.4.4}Cálculo térmico de las paredes}{98}{subsection.4.4.4}%
-\contentsline {subsubsection}{Cálculo de áreas}{98}{section*.71}%
+\contentsline {subsubsection}{Cálculo de áreas}{98}{section*.83}%
 \contentsline {subsubsection}{Transmisión de calor en paredes, pisos y techo}{98}{equation.4.54}%
-\contentsline {subsubsection}{Carga térmica por paredes}{99}{figure.caption.72}%
+\contentsline {subsubsection}{Carga térmica por paredes}{99}{figure.caption.84}%
 \contentsline {subsubsection}{Carga térmica del producto}{100}{equation.4.59}%
 \contentsline {subsubsection}{Carga térmica por Infiltración}{101}{equation.4.62}%
 \contentsline {subsubsection}{Carga del Motor eléctrico}{103}{equation.4.64}%
@@ -112,33 +125,47 @@
 \contentsline {section}{\numberline {4.5}Selección de equipo}{104}{section.4.5}%
 \contentsline {subsection}{\numberline {4.5.1}Unidad condensadora}{104}{subsection.4.5.1}%
 \contentsline {section}{\numberline {4.6}Diseño del sistema eléctrico}{105}{section.4.6}%
-\contentsline {subsection}{\numberline {4.6.1}Esquema a bloques del funcionamiento del sistema eléctrico.}{106}{subsection.4.6.1}%
+\contentsline {subsection}{\numberline {4.6.1}Esquema a bloques del funcionamiento del sistema eléctrico.}{105}{subsection.4.6.1}%
 \contentsline {subsection}{\numberline {4.6.2}Protección contra sobrecarga}{106}{subsection.4.6.2}%
 \contentsline {subsection}{\numberline {4.6.3}Protección Contra Cortocircuito}{107}{subsection.4.6.3}%
 \contentsline {subsection}{\numberline {4.6.4}Diseño del Sistema de Seguridad Eléctrico}{107}{subsection.4.6.4}%
-\contentsline {subsubsection}{Metas de la segurida eléctrica}{108}{section*.80}%
-\contentsline {subsubsection}{Elementos del Sistema de Seguridad}{108}{Item.68}%
+\contentsline {subsubsection}{Metas de la segurida eléctrica}{108}{section*.92}%
+\contentsline {subsubsection}{Elementos del Sistema de Seguridad}{108}{Item.76}%
 \contentsline {subsection}{\numberline {4.6.5}Esquema del sistema eléctrico}{108}{subsection.4.6.5}%
 \contentsline {section}{\numberline {4.7}Conclusión}{109}{section.4.7}%
-\contentsline {chapter}{CAPÍTULO IV. Propuesta de diseño \hfill 83}{}{}
+\contentsline {chapter}{CAPÍTULO IV. Propuesta de diseño \hfill 110}{}{}
 \contentsline {section}{{Introducción}}{111}{section.4.7}%
 \contentsline {section}{\numberline {5.1}Costos Directos}{111}{section.5.1}%
 \contentsline {subsection}{\numberline {5.1.1}Mano de obra}{111}{subsection.5.1.1}%
-\contentsline {subsection}{\numberline {5.1.2}Unidad Condensadora}{112}{subsection.5.1.2}%
-\contentsline {section}{\numberline {5.2}Distribución y Características de la Cámara de Refrigeración}{112}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}Unidad de Refrigeración}{112}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}Consideraciones del Producto}{113}{subsection.5.2.2}%
-\contentsline {section}{\numberline {5.3}Ubicación Geográfica}{113}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Condiciones del Producto a Refrigerar}{113}{section.5.4}%
-\contentsline {section}{\numberline {5.5}Comparación de Unidades Condensadoras Thermo King}{113}{section.5.5}%
-\contentsline {subsection}{\numberline {5.5.1}Análisis de las Opciones}{114}{subsection.5.5.1}%
-\contentsline {subsection}{\numberline {5.5.2}Preferencia y Elección}{114}{subsection.5.5.2}%
-\contentsline {chapter}{Glosario}{115}{chapter*.84}%
-\contentsline {chapter}{Referencias}{117}{chapter*.85}%
-\contentsline {chapter}{{Anexos}}{122}{chapter*.86}%
-\contentsline {section}{{Planos de Ingeniería}}{122}{section*.87}%
-\contentsline {section}{\numberline {6.1}Anexo 1. Vista explosionada de la cámara de refrigeración}{122}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Anexo 2. Cuatro vistas de la cámara de refrigeración}{123}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Anexo 3. Diagrama eléctrico completo}{124}{section.6.3}%
-\contentsline {section}{{Tablas}}{125}{figure.caption.90}%
-\contentsline {section}{{Imágenes}}{127}{table.caption.92}%
+\contentsline {subsection}{\numberline {5.1.2}Distribución y Características de la Cámara de Refrigeración}{112}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}Consideraciones del Producto}{112}{subsection.5.1.3}%
+\contentsline {subsubsection}{Unidad Condensadora}{112}{section*.94}%
+\contentsline {subsection}{\numberline {5.1.4}Comparación de Unidades Condensadoras}{113}{subsection.5.1.4}%
+\contentsline {subsubsection}{Análisis de las Opciones}{114}{table.caption.95}%
+\contentsline {subsubsection}{Preferencia y Elección}{114}{table.caption.95}%
+\contentsline {subsection}{\numberline {5.1.5}Comparación de Unidades Evaporadoras}{115}{subsection.5.1.5}%
+\contentsline {subsubsection}{Análisis de las Opciones}{115}{table.caption.97}%
+\contentsline {subsubsection}{Preferencia y Elección}{116}{table.caption.97}%
+\contentsline {subsection}{\numberline {5.1.6}Comparación de Unidades de motores eléctricos}{117}{subsection.5.1.6}%
+\contentsline {subsubsection}{Análisis de las Opciones}{117}{table.caption.99}%
+\contentsline {subsubsection}{Preferencia y Elección}{118}{table.caption.99}%
+\contentsline {subsection}{\numberline {5.1.7}Selección del Aislante Térmico: Espuma de Poliuretano}{119}{subsection.5.1.7}%
+\contentsline {subsection}{\numberline {5.1.8}Resumen costos indirectos}{119}{subsection.5.1.8}%
+\contentsline {section}{\numberline {5.2}Costos Indirectos}{120}{section.5.2}%
+\contentsline {subsubsection}{Costos de Ingeniería}{120}{section*.102}%
+\contentsline {subsubsection}{Costos por adquisición}{122}{table.caption.104}%
+\contentsline {subsubsection}{Costo de desarrollo del proyecto}{122}{table.caption.105}%
+\contentsline {subsection}{\numberline {5.2.1}Costo de la Protección Económica del Proyecto}{123}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Costo Total del Proyecto}{123}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Costo de Venta del Proyecto}{124}{subsection.5.2.3}%
+\contentsline {section}{\numberline {5.3}Conclusión}{124}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Recomendaciones}{125}{section.5.4}%
+\contentsline {chapter}{Glosario}{128}{chapter*.110}%
+\contentsline {chapter}{Referencias}{130}{chapter*.111}%
+\contentsline {chapter}{{Anexos}}{136}{chapter*.112}%
+\contentsline {section}{{Planos de Ingeniería}}{136}{section*.113}%
+\contentsline {section}{\numberline {6.1}Anexo 1. Vista explosionada de la cámara de refrigeración}{136}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Anexo 2. Cuatro vistas de la cámara de refrigeración}{137}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Anexo 3. Diagrama eléctrico completo}{138}{section.6.3}%
+\contentsline {section}{{Tablas}}{139}{figure.caption.116}%
+\contentsline {section}{{Imágenes}}{141}{table.caption.118}%

@@ -1,4 +1,10 @@
 \documentclass[11pt,a4paper]{report}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish, es-noquoting]{babel} %... para poner . en equations
+\decimalpoint
+
+
+
 \input{librerias}
 
 \usepackage[top=2.5cm, bottom=2.5cm, right=2.5cm, left=3cm]{geometry}
@@ -12,7 +18,7 @@
 
 % \setcounter{page}{40}
 \usepackage{chngcntr} % Para cambiar los contadores
-
+\usepackage{pifont} % checks
 \begin{document} 
 	
 	%	\setlength{\cftdotsep}{1.5pt}  % Ajustar la separación de los puntos
@@ -43,11 +49,10 @@
 	
 	
 	\includepdf[pages=-]{portada}
-	
 
 	\input{previos}
 	\input{cap1y2} 
-%	\input{chapter02}
+	\input{chapter02}
 	
 	%\newpage
  
